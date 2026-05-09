@@ -1,0 +1,41 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//mnt/c/Users/hosam/Desktop/**)",
+      "Bash(npm install *)",
+      "Bash(npm config *)",
+      "Bash(npm run *)",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\" http://localhost:3000)",
+      "Bash(curl -s -o /dev/null -w \"/ -> %{http_code}\\\\n\" http://localhost:3000)",
+      "Bash(curl -s -o /dev/null -w \"/msb -> %{http_code}\\\\n\" http://localhost:3000/msb)",
+      "Bash(curl -s -o /dev/null -w \"/msh -> %{http_code}\\\\n\" http://localhost:3000/msh)",
+      "Bash(curl -s -o /dev/null -w \"/hmu -> %{http_code}\\\\n\" http://localhost:3000/hmu)",
+      "Bash(curl -s -o /dev/null -w \"/xyz -> %{http_code}\\\\n\" http://localhost:3000/xyz)",
+      "Bash(pkill -f \"next dev\")",
+      "Bash(curl -s -o /dev/null -w \"/login -> %{http_code}\\\\n\" http://localhost:3000/login)",
+      "Bash(curl -s -o /dev/null -w \"/register -> %{http_code}\\\\n\" http://localhost:3000/register)",
+      "Bash(curl -s -o /dev/null -w \"/ \\(unauthenticated\\) -> %{http_code}\\\\n\" http://localhost:3000/)",
+      "Read(//tmp/**)",
+      "Bash(curl -s http://localhost:3000/login)",
+      "Bash(curl -s -o /dev/null -w \"HTTP %{http_code}\" http://localhost:3000/login)",
+      "Bash(curl -s -o /dev/null -w \"HTTP %{http_code}\" http://localhost:3000/register)",
+      "Bash(curl -s -o /dev/null -w \"HTTP %{http_code}\" -L http://localhost:3000/)",
+      "Bash(curl -s -o /dev/null -w \"%{redirect_url} \\(HTTP %{http_code}\\)\" http://localhost:3000/)",
+      "Bash(curl -s -o /dev/null -w \"%{redirect_url} \\(HTTP %{http_code}\\)\" http://localhost:3000/msb)",
+      "Bash(curl -s -o /dev/null -w \"/ unauthentifiziert -> HTTP %{http_code} nach %{redirect_url}\" http://localhost:3000/)",
+      "Bash(taskkill /PID 22192 /F)",
+      "Bash(cmd.exe /C \"taskkill /PID 22192 /F\")",
+      "Bash(curl -s -o /dev/null -w \"HTTP %{http_code}\" http://localhost:3001/login)",
+      "Bash(curl -s -o /dev/null -w \"HTTP %{http_code}\" http://localhost:3001/register)",
+      "Bash(curl -s -o /dev/null -w \"/ -> HTTP %{http_code} Redirect: %{redirect_url}\" http://localhost:3001/)",
+      "Bash(curl -s -o /dev/null -w \"HTTP %{http_code} -> %{redirect_url}\" http://localhost:3001/)",
+      "Bash(cmd.exe /C \"taskkill /F /IM node.exe\")",
+      "Bash(curl -s -o /dev/null -w \"/ redirect: %{redirect_url} HTTP %{http_code}\" http://localhost:3000/)",
+      "Bash(curl -s -o /dev/null -w \"/ redirect: %{redirect_url}\" http://localhost:3000/)",
+      "Bash(cmd.exe /C \"taskkill /PID 22192 /F 2>&1\")",
+      "Bash(curl -s -o /dev/null -w \"/ redirect: %{redirect_url} HTTP %{http_code}\" http://localhost:3001/)",
+      "Bash(curl -s -o /dev/null -w \"/ -> HTTP %{http_code} %{redirect_url}\" http://localhost:3000/)",
+      "Bash(node *)"
+    ]
+  }
+}
