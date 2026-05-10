@@ -1,13 +1,8 @@
 "use client";
 
 import { useState } from "react";
-import {
-  kategorisiereAlleFragen,
-  kategorisiereFach,
-  THEMEN_PER_FACH,
-  type FachResult,
-  type KategorisierungResult,
-} from "@/app/actions/kategorisierung";
+import { THEMEN_PER_FACH, type FachResult, type KategorisierungResult } from "@/lib/themen-config";
+import { kategorisiereAlleFragen, kategorisiereFach } from "@/app/actions/kategorisierung";
 
 const FACH_META: Record<string, { label: string; color: string; border: string; bg: string }> = {
   chemie:      { label: "Chemie",      color: "text-amber-300",   border: "border-amber-800/40",   bg: "bg-amber-950/50"   },
