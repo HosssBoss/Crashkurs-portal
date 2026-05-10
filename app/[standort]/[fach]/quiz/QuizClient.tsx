@@ -19,54 +19,54 @@ const fachColors: Record<
   }
 > = {
   biochemie: {
-    accent: "green",
-    text: "text-green-400",
-    bg: "bg-green-500/10",
-    border: "border-green-500/25",
-    bar: "bg-green-500",
+    accent: "emerald",
+    text: "text-emerald-300",
+    bg: "bg-emerald-950/60",
+    border: "border-emerald-800/40",
+    bar: "bg-emerald-600",
     topicBtn:
-      "bg-green-500/15 text-green-300 border border-green-500/25 hover:bg-green-500/25",
-    pill: "bg-green-500/10 text-green-300 border border-green-500/20",
+      "bg-emerald-950/60 text-emerald-300 border border-emerald-800/40 hover:bg-emerald-900/50",
+    pill: "bg-emerald-950/60 text-emerald-300 border border-emerald-800/35",
   },
   chemie: {
-    accent: "orange",
-    text: "text-orange-400",
-    bg: "bg-orange-500/10",
-    border: "border-orange-500/25",
-    bar: "bg-orange-500",
+    accent: "amber",
+    text: "text-amber-300",
+    bg: "bg-amber-950/60",
+    border: "border-amber-800/40",
+    bar: "bg-amber-600",
     topicBtn:
-      "bg-orange-500/15 text-orange-300 border border-orange-500/25 hover:bg-orange-500/25",
-    pill: "bg-orange-500/10 text-orange-300 border border-orange-500/20",
+      "bg-amber-950/60 text-amber-300 border border-amber-800/40 hover:bg-amber-900/50",
+    pill: "bg-amber-950/60 text-amber-300 border border-amber-800/35",
   },
   physik: {
-    accent: "yellow",
-    text: "text-yellow-400",
-    bg: "bg-yellow-500/10",
-    border: "border-yellow-500/25",
-    bar: "bg-yellow-500",
+    accent: "indigo",
+    text: "text-indigo-300",
+    bg: "bg-indigo-950/60",
+    border: "border-indigo-800/40",
+    bar: "bg-indigo-500",
     topicBtn:
-      "bg-yellow-500/15 text-yellow-300 border border-yellow-500/25 hover:bg-yellow-500/25",
-    pill: "bg-yellow-500/10 text-yellow-300 border border-yellow-500/20",
+      "bg-indigo-950/60 text-indigo-300 border border-indigo-800/40 hover:bg-indigo-900/50",
+    pill: "bg-indigo-950/60 text-indigo-300 border border-indigo-800/35",
   },
   biologie: {
-    accent: "sky",
-    text: "text-sky-400",
-    bg: "bg-sky-500/10",
-    border: "border-sky-500/25",
-    bar: "bg-sky-500",
+    accent: "teal",
+    text: "text-teal-300",
+    bg: "bg-teal-950/60",
+    border: "border-teal-800/40",
+    bar: "bg-teal-500",
     topicBtn:
-      "bg-sky-500/15 text-sky-300 border border-sky-500/25 hover:bg-sky-500/25",
-    pill: "bg-sky-500/10 text-sky-300 border border-sky-500/20",
+      "bg-teal-950/60 text-teal-300 border border-teal-800/40 hover:bg-teal-900/50",
+    pill: "bg-teal-950/60 text-teal-300 border border-teal-800/35",
   },
   physiologie: {
     accent: "rose",
-    text: "text-rose-400",
-    bg: "bg-rose-500/10",
-    border: "border-rose-500/25",
-    bar: "bg-rose-500",
+    text: "text-rose-300",
+    bg: "bg-rose-950/60",
+    border: "border-rose-800/40",
+    bar: "bg-rose-600",
     topicBtn:
-      "bg-rose-500/15 text-rose-300 border border-rose-500/25 hover:bg-rose-500/25",
-    pill: "bg-rose-500/10 text-rose-300 border border-rose-500/20",
+      "bg-rose-950/60 text-rose-300 border border-rose-800/40 hover:bg-rose-900/50",
+    pill: "bg-rose-950/60 text-rose-300 border border-rose-800/35",
   },
 };
 
@@ -77,31 +77,31 @@ function getResultInfo(score: number, total: number) {
       emoji: "🏆",
       label: "Hervorragend!",
       msg: "Du beherrschst dieses Thema ausgezeichnet.",
-      color: "text-green-400",
-      barColor: "bg-green-500",
+      color: "text-emerald-300",
+      barColor: "bg-emerald-600",
     };
   if (pct >= 60)
     return {
       emoji: "⭐",
       label: "Gut gemacht!",
       msg: "Mit etwas mehr Übung wirst du es meistern.",
-      color: "text-yellow-400",
-      barColor: "bg-yellow-500",
+      color: "text-amber-300",
+      barColor: "bg-amber-600",
     };
   if (pct >= 40)
     return {
       emoji: "💪",
       label: "Nicht schlecht!",
       msg: "Schau dir die Erklärungen nochmal in Ruhe an.",
-      color: "text-orange-400",
-      barColor: "bg-orange-500",
+      color: "text-orange-300",
+      barColor: "bg-orange-600",
     };
   return {
     emoji: "📚",
     label: "Weiter üben!",
     msg: "Lies die Erklärungen durch – du schaffst das!",
-    color: "text-red-400",
-    barColor: "bg-red-500",
+    color: "text-red-300",
+    barColor: "bg-red-600",
   };
 }
 
@@ -210,37 +210,37 @@ export function QuizClient({
     const base =
       "w-full text-left rounded-xl border p-4 transition-all duration-200 flex items-start gap-3 group";
     if (!isAnswered) {
-      return `${base} border-white/10 bg-white/[0.03] hover:bg-white/[0.07] hover:border-white/20 cursor-pointer`;
+      return `${base} border-white/8 bg-white/[0.02] hover:bg-white/[0.06] hover:border-white/15 cursor-pointer`;
     }
     if (index === currentQuestion?.correctIndex) {
-      return `${base} border-green-500/50 bg-green-500/10 cursor-default`;
+      return `${base} border-emerald-700/40 bg-emerald-950/50 cursor-default`;
     }
     if (index === selectedAnswer) {
-      return `${base} border-red-500/50 bg-red-500/10 cursor-default`;
+      return `${base} border-red-700/40 bg-red-950/50 cursor-default`;
     }
-    return `${base} border-white/5 bg-transparent cursor-default opacity-40`;
+    return `${base} border-white/4 bg-transparent cursor-default opacity-35`;
   };
 
   const getOptionLetterClass = (index: number) => {
     const base =
       "flex h-7 w-7 shrink-0 items-center justify-center rounded-lg text-xs font-bold mt-0.5";
     if (!isAnswered) {
-      return `${base} bg-white/5 text-slate-400 group-hover:bg-white/10 group-hover:text-slate-200 transition-colors`;
+      return `${base} bg-white/5 text-slate-500 group-hover:bg-white/8 group-hover:text-slate-300 transition-colors`;
     }
     if (index === currentQuestion?.correctIndex) {
-      return `${base} bg-green-500/20 text-green-400`;
+      return `${base} bg-emerald-900/60 text-emerald-300`;
     }
     if (index === selectedAnswer) {
-      return `${base} bg-red-500/20 text-red-400`;
+      return `${base} bg-red-900/60 text-red-300`;
     }
-    return `${base} bg-white/5 text-slate-600`;
+    return `${base} bg-white/4 text-slate-700`;
   };
 
   const getOptionTextClass = (index: number) => {
-    if (!isAnswered) return "text-slate-200 text-sm leading-relaxed";
-    if (index === currentQuestion?.correctIndex) return "text-green-300 text-sm leading-relaxed";
-    if (index === selectedAnswer) return "text-red-300 text-sm leading-relaxed";
-    return "text-slate-600 text-sm leading-relaxed";
+    if (!isAnswered) return "text-slate-300 text-sm leading-relaxed";
+    if (index === currentQuestion?.correctIndex) return "text-emerald-200 text-sm leading-relaxed";
+    if (index === selectedAnswer) return "text-red-200 text-sm leading-relaxed";
+    return "text-slate-700 text-sm leading-relaxed";
   };
 
   // ── TOPIC SELECTION ──────────────────────────────────────────────────────────
@@ -249,17 +249,15 @@ export function QuizClient({
       <div>
         {/* Header */}
         <div className="mb-8">
-          <div
-            className={`mb-3 inline-flex items-center gap-1.5 rounded-full px-2.5 py-1 text-xs font-medium ${locPillClass}`}
-          >
+          <div className={`mb-3 inline-flex items-center gap-1.5 rounded-full px-2.5 py-1 text-xs font-medium ${locPillClass}`}>
             <span className={`h-1.5 w-1.5 rounded-full ${locDotClass}`} />
             {locShort}
           </div>
           <h1 className="text-2xl font-bold tracking-tight text-white sm:text-3xl">
             <span className={colors.text}>{fachName}</span>{" "}
-            <span className="text-slate-300 font-semibold">Quiz</span>
+            <span className="text-slate-400 font-semibold">Quiz</span>
           </h1>
-          <p className="mt-2 text-sm text-slate-500">
+          <p className="mt-2 text-sm text-slate-600">
             Wähle ein Unterthema und teste dein Wissen mit Multiple-Choice-Fragen.
           </p>
         </div>
@@ -270,41 +268,26 @@ export function QuizClient({
             <button
               key={topic.id}
               onClick={() => startTopic(topic.id)}
-              className={`group relative rounded-2xl border bg-white/[0.02] p-6 text-left transition-all duration-200 hover:bg-white/[0.05] hover:scale-[1.01] ${colors.border}`}
+              className={`group relative rounded-2xl border bg-white/[0.02] p-6 text-left transition-all duration-200 hover:bg-white/[0.04] hover:scale-[1.01] ${colors.border}`}
             >
-              <div className="pointer-events-none absolute inset-x-0 top-0 h-px bg-gradient-to-r from-transparent via-white/8 to-transparent rounded-t-2xl" />
+              <div className="pointer-events-none absolute inset-x-0 top-0 h-px bg-gradient-to-r from-transparent via-white/6 to-transparent rounded-t-2xl" />
 
-              <div
-                className={`mb-4 flex h-12 w-12 items-center justify-center rounded-xl border text-2xl ${colors.border} ${colors.bg}`}
-              >
+              <div className={`mb-4 flex h-12 w-12 items-center justify-center rounded-xl border text-2xl ${colors.border} ${colors.bg}`}>
                 {topic.emoji}
               </div>
 
-              <h3 className={`mb-1 font-bold ${colors.text}`}>
-                {topic.name}
-              </h3>
-              <p className="text-xs text-slate-600">
-                {topic.questions.length} Fragen
-              </p>
+              <h3 className={`mb-1 font-bold ${colors.text}`}>{topic.name}</h3>
+              <p className="text-xs text-slate-600">{topic.questions.length} Fragen</p>
 
               <div className="mt-5 flex items-center gap-1.5">
-                <span
-                  className={`rounded-lg px-3 py-1.5 text-xs font-medium transition-colors ${colors.topicBtn} border`}
-                >
+                <span className={`rounded-lg px-3 py-1.5 text-xs font-medium transition-colors ${colors.topicBtn} border`}>
                   Starten
                 </span>
                 <svg
                   className={`h-3.5 w-3.5 ${colors.text} opacity-0 -translate-x-1 group-hover:opacity-100 group-hover:translate-x-0 transition-all duration-150`}
-                  fill="none"
-                  viewBox="0 0 24 24"
-                  stroke="currentColor"
+                  fill="none" viewBox="0 0 24 24" stroke="currentColor"
                 >
-                  <path
-                    strokeLinecap="round"
-                    strokeLinejoin="round"
-                    strokeWidth={2.5}
-                    d="M9 5l7 7-7 7"
-                  />
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2.5} d="M9 5l7 7-7 7" />
                 </svg>
               </div>
             </button>
@@ -312,8 +295,8 @@ export function QuizClient({
         </div>
 
         {topics.length === 0 && (
-          <div className="rounded-2xl border border-white/7 bg-white/[0.02] p-12 text-center">
-            <p className="text-slate-500">
+          <div className="rounded-2xl border border-white/6 bg-white/[0.015] p-12 text-center">
+            <p className="text-slate-600">
               Für dieses Fach sind noch keine Quiz-Fragen verfügbar.
             </p>
           </div>
@@ -329,46 +312,33 @@ export function QuizClient({
 
     return (
       <div className="flex flex-col items-center">
-        {/* Card */}
-        <div className="relative w-full max-w-md rounded-2xl border border-white/8 bg-white/[0.02] p-8 text-center">
-          <div className="pointer-events-none absolute inset-x-0 top-0 h-px bg-gradient-to-r from-transparent via-white/10 to-transparent rounded-t-2xl" />
+        <div className="relative w-full max-w-md rounded-2xl border border-white/7 bg-white/[0.02] p-8 text-center">
+          <div className="pointer-events-none absolute inset-x-0 top-0 h-px bg-gradient-to-r from-transparent via-white/7 to-transparent rounded-t-2xl" />
 
           <div className="mb-2 text-5xl">{result.emoji}</div>
-          <div className={`mb-1 text-lg font-bold ${result.color}`}>
-            {result.label}
-          </div>
-          <p className="mb-6 text-sm text-slate-500">{result.msg}</p>
+          <div className={`mb-1 text-lg font-bold ${result.color}`}>{result.label}</div>
+          <p className="mb-6 text-sm text-slate-600">{result.msg}</p>
 
-          {/* Score display */}
           <div className="mb-2 text-6xl font-black text-white">
             {score}
-            <span className="text-3xl font-semibold text-slate-500">
-              /{questions.length}
-            </span>
+            <span className="text-3xl font-semibold text-slate-600">/{questions.length}</span>
           </div>
-          <p className="mb-6 text-sm text-slate-500">Punkte erreicht</p>
+          <p className="mb-6 text-sm text-slate-600">Punkte erreicht</p>
 
-          {/* Progress bar */}
-          <div className="mb-2 h-2.5 w-full overflow-hidden rounded-full bg-white/5">
+          <div className="mb-2 h-2 w-full overflow-hidden rounded-full bg-white/5">
             <div
               className={`h-full rounded-full transition-all duration-700 ${result.barColor}`}
               style={{ width: `${pct}%` }}
             />
           </div>
-          <p className={`mb-8 text-sm font-semibold ${result.color}`}>
-            {pct}%
-          </p>
+          <p className={`mb-8 text-sm font-semibold ${result.color}`}>{pct}%</p>
 
-          {/* Thema badge */}
           <div className="mb-8 flex justify-center">
-            <span
-              className={`inline-flex items-center gap-1.5 rounded-full px-2.5 py-1 text-xs font-medium ${colors.pill}`}
-            >
+            <span className={`inline-flex items-center gap-1.5 rounded-full px-2.5 py-1 text-xs font-medium ${colors.pill}`}>
               {selectedTopic?.emoji} {selectedTopic?.name}
             </span>
           </div>
 
-          {/* Actions */}
           <div className="flex flex-col gap-3 sm:flex-row">
             <button
               onClick={retryTopic}
@@ -378,7 +348,7 @@ export function QuizClient({
             </button>
             <button
               onClick={resetToTopics}
-              className="flex-1 rounded-xl border border-white/10 bg-white/[0.03] px-4 py-2.5 text-sm font-medium text-slate-300 transition-colors hover:bg-white/[0.07]"
+              className="flex-1 rounded-xl border border-white/8 bg-white/[0.02] px-4 py-2.5 text-sm font-medium text-slate-400 transition-colors hover:bg-white/[0.05]"
             >
               Anderes Thema
             </button>
@@ -393,24 +363,14 @@ export function QuizClient({
 
   return (
     <div>
-      {/* Top bar: back + topic + counter */}
+      {/* Top bar */}
       <div className="mb-4 flex items-center justify-between">
         <button
           onClick={resetToTopics}
-          className="flex items-center gap-1.5 text-sm text-slate-500 transition-colors hover:text-slate-300"
+          className="flex items-center gap-1.5 text-sm text-slate-600 transition-colors hover:text-slate-300"
         >
-          <svg
-            className="h-3.5 w-3.5"
-            fill="none"
-            viewBox="0 0 24 24"
-            stroke="currentColor"
-          >
-            <path
-              strokeLinecap="round"
-              strokeLinejoin="round"
-              strokeWidth={2}
-              d="M15 19l-7-7 7-7"
-            />
+          <svg className="h-3.5 w-3.5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 19l-7-7 7-7" />
           </svg>
           Thema wechseln
         </button>
@@ -419,14 +379,14 @@ export function QuizClient({
           <span className={`text-xs font-medium ${colors.text}`}>
             {selectedTopic?.emoji} {selectedTopic?.name}
           </span>
-          <span className="text-xs text-slate-600">
+          <span className="text-xs text-slate-700">
             {currentIndex + 1}/{questions.length}
           </span>
         </div>
       </div>
 
       {/* Progress bar */}
-      <div className="mb-8 h-1.5 w-full overflow-hidden rounded-full bg-white/5">
+      <div className="mb-8 h-1 w-full overflow-hidden rounded-full bg-white/5">
         <div
           className={`h-full rounded-full transition-all duration-500 ${colors.bar}`}
           style={{ width: `${progress}%` }}
@@ -434,27 +394,22 @@ export function QuizClient({
       </div>
 
       {/* Question card */}
-      <div className="relative rounded-2xl border border-white/8 bg-white/[0.02] p-6 sm:p-8">
-        <div className="pointer-events-none absolute inset-x-0 top-0 h-px bg-gradient-to-r from-transparent via-white/8 to-transparent rounded-t-2xl" />
+      <div className="relative rounded-2xl border border-white/7 bg-white/[0.02] p-6 sm:p-8">
+        <div className="pointer-events-none absolute inset-x-0 top-0 h-px bg-gradient-to-r from-transparent via-white/6 to-transparent rounded-t-2xl" />
 
-        {/* Score pill */}
         <div className="mb-5 flex items-center justify-between">
-          <span className="text-xs text-slate-600">
+          <span className="text-xs text-slate-700">
             Frage {currentIndex + 1} von {questions.length}
           </span>
-          <span
-            className={`rounded-full px-2.5 py-0.5 text-xs font-medium ${colors.pill}`}
-          >
+          <span className={`rounded-full px-2.5 py-0.5 text-xs font-medium ${colors.pill}`}>
             {score} Pkt.
           </span>
         </div>
 
-        {/* Question text */}
         <h2 className="mb-6 text-base font-semibold leading-relaxed text-white sm:text-lg">
           {currentQuestion.question}
         </h2>
 
-        {/* Options */}
         <div className="mb-6 flex flex-col gap-2.5">
           {currentQuestion.options.map((option, index) => (
             <button
@@ -467,93 +422,44 @@ export function QuizClient({
                 {OPTION_LETTERS[index]}
               </span>
               <span className={getOptionTextClass(index)}>{option}</span>
-              {/* Check / X icon after answer */}
               {isAnswered && index === currentQuestion.correctIndex && (
-                <svg
-                  className="ml-auto h-4 w-4 shrink-0 text-green-400 mt-0.5"
-                  fill="none"
-                  viewBox="0 0 24 24"
-                  stroke="currentColor"
-                >
-                  <path
-                    strokeLinecap="round"
-                    strokeLinejoin="round"
-                    strokeWidth={2.5}
-                    d="M5 13l4 4L19 7"
-                  />
+                <svg className="ml-auto h-4 w-4 shrink-0 text-emerald-400 mt-0.5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2.5} d="M5 13l4 4L19 7" />
                 </svg>
               )}
-              {isAnswered &&
-                index === selectedAnswer &&
-                index !== currentQuestion.correctIndex && (
-                  <svg
-                    className="ml-auto h-4 w-4 shrink-0 text-red-400 mt-0.5"
-                    fill="none"
-                    viewBox="0 0 24 24"
-                    stroke="currentColor"
-                  >
-                    <path
-                      strokeLinecap="round"
-                      strokeLinejoin="round"
-                      strokeWidth={2.5}
-                      d="M6 18L18 6M6 6l12 12"
-                    />
-                  </svg>
-                )}
+              {isAnswered && index === selectedAnswer && index !== currentQuestion.correctIndex && (
+                <svg className="ml-auto h-4 w-4 shrink-0 text-red-400 mt-0.5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2.5} d="M6 18L18 6M6 6l12 12" />
+                </svg>
+              )}
             </button>
           ))}
         </div>
 
-        {/* Feedback + explanation (shown after answering) */}
+        {/* Feedback */}
         {isAnswered && (
-          <div
-            className={`mb-5 rounded-xl border p-4 ${
-              isCorrect
-                ? "border-green-500/25 bg-green-500/10"
-                : "border-red-500/25 bg-red-500/10"
-            }`}
-          >
+          <div className={`mb-5 rounded-xl border p-4 ${
+            isCorrect
+              ? "border-emerald-700/35 bg-emerald-950/50"
+              : "border-red-700/35 bg-red-950/50"
+          }`}>
             <div className="mb-2 flex items-center gap-2">
               {isCorrect ? (
                 <>
-                  <svg
-                    className="h-4 w-4 text-green-400"
-                    fill="none"
-                    viewBox="0 0 24 24"
-                    stroke="currentColor"
-                  >
-                    <path
-                      strokeLinecap="round"
-                      strokeLinejoin="round"
-                      strokeWidth={2.5}
-                      d="M5 13l4 4L19 7"
-                    />
+                  <svg className="h-4 w-4 text-emerald-400" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2.5} d="M5 13l4 4L19 7" />
                   </svg>
-                  <span className="text-sm font-semibold text-green-400">
-                    Richtig!
-                  </span>
+                  <span className="text-sm font-semibold text-emerald-300">Richtig!</span>
                 </>
               ) : (
                 <>
-                  <svg
-                    className="h-4 w-4 text-red-400"
-                    fill="none"
-                    viewBox="0 0 24 24"
-                    stroke="currentColor"
-                  >
-                    <path
-                      strokeLinecap="round"
-                      strokeLinejoin="round"
-                      strokeWidth={2.5}
-                      d="M6 18L18 6M6 6l12 12"
-                    />
+                  <svg className="h-4 w-4 text-red-400" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2.5} d="M6 18L18 6M6 6l12 12" />
                   </svg>
-                  <span className="text-sm font-semibold text-red-400">
-                    Falsch!
-                  </span>
-                  <span className="text-xs text-slate-500">
+                  <span className="text-sm font-semibold text-red-300">Falsch!</span>
+                  <span className="text-xs text-slate-600">
                     Richtig wäre:{" "}
-                    <span className="text-green-400 font-medium">
+                    <span className="text-emerald-300 font-medium">
                       {OPTION_LETTERS[currentQuestion.correctIndex]}.{" "}
                       {currentQuestion.options[currentQuestion.correctIndex]}
                     </span>
@@ -561,7 +467,7 @@ export function QuizClient({
                 </>
               )}
             </div>
-            <p className="text-sm leading-relaxed text-slate-400">
+            <p className="text-sm leading-relaxed text-slate-500">
               {currentQuestion.explanation}
             </p>
           </div>
@@ -575,25 +481,14 @@ export function QuizClient({
               className={`flex items-center gap-2 rounded-xl border px-5 py-2.5 text-sm font-medium transition-colors ${colors.topicBtn}`}
             >
               {isLastQuestion ? "Ergebnis anzeigen" : "Nächste Frage"}
-              <svg
-                className="h-4 w-4"
-                fill="none"
-                viewBox="0 0 24 24"
-                stroke="currentColor"
-              >
-                <path
-                  strokeLinecap="round"
-                  strokeLinejoin="round"
-                  strokeWidth={2}
-                  d="M9 5l7 7-7 7"
-                />
+              <svg className="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
               </svg>
             </button>
           </div>
         )}
       </div>
 
-      {/* Hint when not yet answered */}
       {!isAnswered && (
         <p className="mt-4 text-center text-xs text-slate-700">
           Wähle eine Antwort, um fortzufahren
