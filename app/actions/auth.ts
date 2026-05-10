@@ -19,6 +19,8 @@ function translateError(msg: string): string {
     return "Das Passwort muss mindestens 6 Zeichen lang sein.";
   if (msg.includes("rate limit") || msg.includes("too many"))
     return "Zu viele Versuche. Bitte warte kurz und versuche es erneut.";
+  if (msg.includes("Invalid API key"))
+    return "Supabase-Konfigurationsfehler (Invalid API key). Bitte den Anon-Key in .env.local prüfen oder das Supabase-Projekt reaktivieren.";
   if (msg.includes("fetch failed") || msg.includes("network") || msg.includes("UNABLE_TO_VERIFY"))
     return "Verbindungsfehler. Bitte Internetverbindung prüfen und erneut versuchen.";
   if (msg.includes("signup_disabled") || msg.includes("Signups not allowed"))

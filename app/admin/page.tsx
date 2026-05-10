@@ -12,10 +12,18 @@ const FACH_COLORS: Record<string, string> = {
 export default async function AdminDashboard() {
   const supabase = await createClient();
 
-  const { data: questions } = await supabase
-    .from("questions")
-    .select("id, fach, created_at, question")
-    .order("created_at", { ascending: false });
+  let questions: { id: string; fach: string; created_at: string; question: string }[] = [];
+  let dbError: string | null = null;
+  try {
+    const { data, error } = await supabase
+      .from("questions")
+      .select("id, fach, created_at, question")
+      .order("created_at", { ascending: false });
+    if (error) dbError = error.message;
+    questions = data ?? [];
+  } catch (e) {
+    dbError = e instanceof Error ? e.message : "Datenbankverbindung fehlgeschlagen.";
+  }
 
   const total = questions?.length ?? 0;
 
@@ -90,6 +98,19 @@ export default async function AdminDashboard() {
           );
         })}
       </div>
+
+      {/* DB error banner */}
+      {dbError && (
+        <div className="rounded-xl border border-amber-500/25 bg-amber-500/10 px-4 py-3">
+          <p className="text-sm font-medium text-amber-300">Datenbankfehler</p>
+          <p className="mt-0.5 text-xs text-amber-400/80">{dbError}</p>
+          {dbError.includes("does not exist") && (
+            <p className="mt-1 text-xs text-amber-400/60">
+              Führe <code className="font-mono">supabase/questions.sql</code> im Supabase SQL-Editor aus.
+            </p>
+          )}
+        </div>
+      )}
 
       {/* Quick actions */}
       <div>
