@@ -16,8 +16,8 @@ const navItems = [
     ),
   },
   {
-    href: "/admin/questions",
-    label: "Alle Fragen",
+    href: "/admin/fragen",
+    label: "Fragenverwaltung",
     exact: false,
     icon: (
       <svg className="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
@@ -27,7 +27,7 @@ const navItems = [
     ),
   },
   {
-    href: "/admin/questions/new",
+    href: "/admin/fragen/new",
     label: "Neue Frage",
     exact: true,
     icon: (
@@ -72,7 +72,7 @@ export default function AdminNav() {
         {navItems.map((item) => {
           const active = item.exact
             ? pathname === item.href
-            : pathname.startsWith(item.href) && !(item.href === "/admin/questions" && pathname === "/admin/questions/new");
+            : pathname.startsWith(item.href) && !(item.href === "/admin/fragen" && pathname === "/admin/fragen/new");
           return (
             <Link
               key={item.href}

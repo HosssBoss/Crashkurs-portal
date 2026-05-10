@@ -36,8 +36,8 @@ export async function createQuestion(_prev: unknown, formData: FormData) {
 
   if (error) return { error: error.message };
 
-  revalidatePath("/admin/questions");
-  redirect("/admin/questions");
+  revalidatePath("/admin/fragen");
+  redirect("/admin/fragen");
 }
 
 export async function updateQuestion(
@@ -65,8 +65,8 @@ export async function updateQuestion(
 
   if (error) return { error: error.message };
 
-  revalidatePath("/admin/questions");
-  redirect("/admin/questions");
+  revalidatePath("/admin/fragen");
+  redirect("/admin/fragen");
 }
 
 export async function deleteQuestion(id: string) {

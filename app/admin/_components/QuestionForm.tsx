@@ -163,7 +163,7 @@ export default function QuestionForm({ action, initial, submitLabel = "Speichern
             </span>
           ) : submitLabel}
         </button>
-        <a href="/admin/questions" className="text-sm text-slate-500 hover:text-slate-300 transition-colors">
+        <a href="/admin/fragen" className="text-sm text-slate-500 hover:text-slate-300 transition-colors">
           Abbrechen
         </a>
       </div>
