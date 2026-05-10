@@ -48,6 +48,13 @@ export default async function proxy(request: NextRequest) {
     return NextResponse.redirect(url);
   }
 
+  // Admin-only protection
+  if (pathname.startsWith("/admin") && user?.email !== "hosam828@outlook.de") {
+    const url = request.nextUrl.clone();
+    url.pathname = user ? "/" : "/login";
+    return NextResponse.redirect(url);
+  }
+
   return supabaseResponse;
 }
 

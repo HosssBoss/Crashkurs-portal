@@ -197,8 +197,6 @@ export const quizData: Record<string, FachQuiz> = {
         ],
       },
     
-,
-    ,
       {
         id: "docsdocs-biochemie1",
         name: "Docsdocs Biochemie 1",
@@ -759,8 +757,6 @@ export const quizData: Record<string, FachQuiz> = {
         ],
       },
     
-,
-    ,
       {
         id: "docsdocs-chemie",
         name: "Docsdocs Chemie",
@@ -1464,8 +1460,6 @@ export const quizData: Record<string, FachQuiz> = {
         ],
       },
     
-,
-    ,
       {
         id: "docsdocs-physik",
         name: "Docsdocs Physik",
