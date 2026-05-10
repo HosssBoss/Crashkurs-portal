@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "fach": "Chemie",
+    "semester": "01",
+    "scraped_at": "2026-05-10T01:20:19.610862",
+    "total": 2,
+    "skipped": {
+      "skipped_images": 0,
+      "skipped_unclear": 0,
+      "skipped_no_options": 0,
+      "skipped_no_answer": 0
+    }
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "Frage1. Was trifft auf die nachfolgend dargestellte Elektronenkonfiguration von Silicium am\nehesten zu?\n1s2 2s2 2p6 3s2 3p2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correct_index": 2,
+      "correct_answer": "3"
+    },
+    {
+      "id": 2,
+      "question": "2. Welche Aussage zur Beeinflussung der folgenden Gleichgewichtsreaktion nach dem Prinzip\ndes kleinsten Zwanges trifft zu?\na × A + b × B c × C + d × D",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correct_index": 2,
+      "correct_answer": "3"
+    }
+  ]
+}

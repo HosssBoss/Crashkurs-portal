@@ -1,0 +1,120 @@
+{
+  "meta": {
+    "fach": "Biochemie 1",
+    "semester": "02",
+    "scraped_at": "2026-05-10T01:39:59.274764",
+    "total": 8,
+    "skipped": {
+      "skipped_images": 0,
+      "skipped_unclear": 0,
+      "skipped_no_options": 0,
+      "skipped_no_answer": 0
+    }
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "Welche der folgenden Aussagen zur Translation sind korrekt ?",
+      "options": [
+        "Für jede Aminosäure gibt es genau ein Codon",
+        "Die Polypeptidsynthese erfolgt vom N- bis zum C-Terminus",
+        "Die Translationsrichtung an der mRNA ist 3' zu 5'",
+        "Die Aminoacyl-tRNA bindet zuerst an der P-Stelle eines Ribosoms",
+        "Die Ribosomen können frei im Zytosol vorliegen oder am rauen endoplasmatischen Retikulum verankert sein"
+      ],
+      "correct_index": 4,
+      "correct_answer": "Die Ribosomen können frei im Zytosol vorliegen oder am rauen endoplasmatischen Retikulum verankert sein"
+    },
+    {
+      "id": 2,
+      "question": "Welches Enzym verknüpft die Okazaki-Fragmente während der Replikation ?",
+      "options": [
+        "DNA Polymerase Delta",
+        "Helicase",
+        "DNA Polymerase Epsilon",
+        "DNA-Ligase",
+        "Primase"
+      ],
+      "correct_index": 3,
+      "correct_answer": "DNA-Ligase"
+    },
+    {
+      "id": 3,
+      "question": "Ein Molekül besteht aus Ceramid + Oligosaccharid mit einem oder mehreren Acetylneuraminsäureresten. Um welches Molekül handelt es sich am ehesten ?",
+      "options": [
+        "Sphingomyelin",
+        "Cerebrosid",
+        "Phosphatidylserin",
+        "Gangliosid",
+        "Phosphatidylcholin"
+      ],
+      "correct_index": 3,
+      "correct_answer": "Gangliosid"
+    },
+    {
+      "id": 4,
+      "question": "Was haben die zelluläre Replikation der DNA und die Transkription der mRNA nicht gemeinsam ?",
+      "options": [
+        "Beide Prozesse benötigen Polymerasen",
+        "Beide Prozesse benötigen Primer",
+        "Beide Prozesse finden im Zellkern statt",
+        "Beide Prozesse benötigen Helikasen",
+        "Beide Prozesse benötigen Nukleotide"
+      ],
+      "correct_index": 1,
+      "correct_answer": "Beide Prozesse benötigen Primer"
+    },
+    {
+      "id": 5,
+      "question": "Welche strukturellen Elemente sind dafür verantwortlich, dass die RNA- und DNA-Konzentrationen spektroskopisch bei 260nm bestimmt werden kann ?",
+      "options": [
+        "Die Wasserstoffbrückenbindungen zwischen den komplementären Basen",
+        "Die Phosphatreste",
+        "Die Nukleobasen",
+        "Die Ribose",
+        "Die N-glykosidischen Bindungen"
+      ],
+      "correct_index": 2,
+      "correct_answer": "Die Nukleobasen"
+    },
+    {
+      "id": 6,
+      "question": "Auf welches der folgenden Kohlenhydrate sollte man mit Lactoseintoleranz am ehesten verzichten ?",
+      "options": [
+        "Saccharose",
+        "Maltose",
+        "Laktose",
+        "Stärke",
+        "Glykogen"
+      ],
+      "correct_index": 2,
+      "correct_answer": "Laktose"
+    },
+    {
+      "id": 7,
+      "question": "Bei welchem Prozessierungsschritt ist der mRNA ist 7-Methyl-Guanosin involviert ?",
+      "options": [
+        "RNA-editing",
+        "Verbindung der Exonsequenzen beim splicen",
+        "5'capping",
+        "Bildung der Lariatstruktur beim Splicing",
+        "Poli-Adenylierung des 3'Endes"
+      ],
+      "correct_index": 2,
+      "correct_answer": "5'capping"
+    },
+    {
+      "id": 8,
+      "question": "Welche Auswirkung hat der Einsatz von Enzymen bei chemischen Reaktionen ?",
+      "options": [
+        "Erhöhung von G0",
+        "Erniedrigung von G0",
+        "Absenkung der Aktivierungsenergie",
+        "Erhöhung der Aktivierungsenergie",
+        "Verschiebung der Gleichgewichtskonstante hin zum Produkt"
+      ],
+      "correct_index": 2,
+      "correct_answer": "Absenkung der Aktivierungsenergie"
+    }
+  ]
+}

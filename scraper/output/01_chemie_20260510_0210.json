@@ -1,0 +1,510 @@
+{
+  "meta": {
+    "fach": "Chemie",
+    "semester": "01",
+    "scraped_at": "2026-05-10T02:10:48.874229",
+    "total": 38,
+    "skipped": {
+      "skipped_images": 0,
+      "skipped_unclear": 0,
+      "skipped_no_options": 0,
+      "skipped_no_answer": 11
+    }
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "Wie wirkt sich die Hydrathülle auf die Größe der Alkali-Kationen von Li, Na und K aus?",
+      "options": [
+        "Die Hydrathülle übt keinen Einfluss auf die Größe der Alkali-Kationen aus.",
+        "Der Radius der hydratisierten Ionen nimmt vom Lithium über Natrium zum Kalium hin ab.",
+        "Die Ionen haben nach der Hydratisierung alle die gleiche Größe",
+        "Die Alkali-Ionen reagieren mit dem Wasser, unter Freisetzung von Wasserstoff, zu ihren Oxiden",
+        "Die Hydrathülle orientiert sich mit den Wasserstoffatomen voran in Richtung der Alkali-Ionen"
+      ],
+      "correct_index": 1,
+      "correct_answer": "Der Radius der hydratisierten Ionen nimmt vom Lithium über Natrium zum Kalium hin ab."
+    },
+    {
+      "id": 2,
+      "question": "Welche Anordnung haben die Bindungen um ein sp3-hybridisiertes Kohlenstoffatom?",
+      "options": [
+        "Trigonal planar",
+        "Quadratisch planar",
+        "Tetraedrisch",
+        "Oktaedrisch",
+        "Linear"
+      ],
+      "correct_index": 2,
+      "correct_answer": "Tetraedrisch"
+    },
+    {
+      "id": 3,
+      "question": "Wie lautet das korrekte Massewirkungsgesetz für die folgende Reaktion? 3 H2 + N2 ⇌ 2 NH3",
+      "options": [
+        "Option 1",
+        "Option 2",
+        "Option 3",
+        "Option 4",
+        "Option 5"
+      ],
+      "correct_index": 4,
+      "correct_answer": "Option 5"
+    },
+    {
+      "id": 4,
+      "question": "Welche Reaktion wird voraussichtlich freiwillig ablaufen?",
+      "options": [
+        "∧H = -50 kJ/mol ; ∧S= -0,025 kJ/ mol*K; ∧T= 3000K",
+        "∧H= -50 kJ/mol; ∧S= -0,025 kJ/mol*K; ∧T= 300K",
+        "∧H= 50 kJ/mol; ∧S= 0,025 kJ/mol*K; ∧T= 300K",
+        "∧H= 50 kJ/mol; ∧S= 0,025 kJ/mol*K; ∧T= 2000K",
+        "∧H= 50 kJ/mol; ∧S= -0,025 kJ/mol*K; ∧T= 3000K"
+      ],
+      "correct_index": 1,
+      "correct_answer": "∧H= -50 kJ/mol; ∧S= -0,025 kJ/mol*K; ∧T= 300K"
+    },
+    {
+      "id": 5,
+      "question": "Welche Aussage zu 3517Cl ist korrekt?",
+      "options": [
+        "Chlor hat 18 Neutronen in der Atomhülle.",
+        "Chlor steht in der 1. Hauptgruppe.",
+        "Chlor erreicht durch Elektronenabgabe das Elektronenoktett.",
+        "Chlor hat 17 Protonen im Atomkern.",
+        "Chlor besitzt acht Valenzelektronen."
+      ],
+      "correct_index": 3,
+      "correct_answer": "Chlor hat 17 Protonen im Atomkern."
+    },
+    {
+      "id": 6,
+      "question": "Wie hoch ist die maximale positive Oxidationszahl des Elements Stickstoff?",
+      "options": [
+        "+ III",
+        "+ IV",
+        "+ V",
+        "+ VI",
+        "+ VII"
+      ],
+      "correct_index": 2,
+      "correct_answer": "+ V"
+    },
+    {
+      "id": 7,
+      "question": "Unter Verseifung wird verstanden:",
+      "options": [
+        "Die Herabsetzung der Oberflächenspannung des Wassers.",
+        "Die Umsetzung höherer Fette (Triglyceride) mit Natriumhydroxid.",
+        "Das Ausfällen von Fetten im Wasser.",
+        "Die Anlagerung von Wasserstoff an die Doppelbindungen ungesättigter Fettsäuren.",
+        "Die saure Spaltung eines Esters."
+      ],
+      "correct_index": 1,
+      "correct_answer": "Die Umsetzung höherer Fette (Triglyceride) mit Natriumhydroxid."
+    },
+    {
+      "id": 8,
+      "question": "Welche Eigenschaften hat ein Eletrophil?",
+      "options": [
+        "Eine Elektrophil ist immer negativ polarisiert.",
+        "Ein Eletrophil hat immer eine hohe Eletronegativität.",
+        "Ein Eletrophil muss ein Kation sein.",
+        "Ein Eletrophil muss ein Elektron sein.",
+        "Ein Elektrophil hat eine Elektronenlücke."
+      ],
+      "correct_index": 4,
+      "correct_answer": "Ein Elektrophil hat eine Elektronenlücke."
+    },
+    {
+      "id": 9,
+      "question": "Welche Oxidationszahl hat das α-C-Atom (rot markiert) in der abgebildeten chemischen Verbindung?",
+      "options": [
+        "- IV",
+        "- III",
+        "Option 3",
+        "+ III",
+        "+ IV"
+      ],
+      "correct_index": 3,
+      "correct_answer": "+ III"
+    },
+    {
+      "id": 10,
+      "question": "Welche Aussage zu Mesomerie ist nicht zutreffend?",
+      "options": [
+        "Die reale Struktur eines Moleküls mit mesomeren Grenzstrukturen liegt zw. diesen möglichen Strukturen.",
+        "Mesomere Grenzstrukturen werden durch folgenden Pfeil gekennzeichnet: ↔",
+        "Ein bekanntes Beispiel für ein Molekül mit mesomeren Grenzstrukturen ist der Benzolring",
+        "Es gibt immer genau drei mesomere Grenzstrukturen für ein Molekül",
+        "Ionen mit mesomeren Grenzstrukturen können ihre Ladung über das Molekül verteilen"
+      ],
+      "correct_index": 3,
+      "correct_answer": "Es gibt immer genau drei mesomere Grenzstrukturen für ein Molekül"
+    },
+    {
+      "id": 11,
+      "question": "Zwischen welchen Atomen würde sich eine polar-kovalente Bindung ausbilden?",
+      "options": [
+        "Na und Cl",
+        "Mg und F",
+        "C und H",
+        "H und Cl",
+        "K und Br"
+      ],
+      "correct_index": 3,
+      "correct_answer": "H und Cl"
+    },
+    {
+      "id": 12,
+      "question": "Folgende Reaktion befindet sich im Gleichgewicht:Welche Aussage ist korrekt?",
+      "options": [
+        "Wird die Konzentration von H2 verringer, verschiebt sich das Gleichgewicht auf Produktseite",
+        "Wird HI aus dem System entfernt, verschiebt sich das Gleichgewicht auf Eduktseite",
+        "Bei Erhöhung der Temperatur verschiebt sich das Gleichgewicht auf Produktseite",
+        "Eine Druckänderung hat keine Auswirkung auf die Lage des Gleichgewichts",
+        "Wird Iod dem System hinzugefügt, verschiebt sich das Gleichgewicht nicht"
+      ],
+      "correct_index": 3,
+      "correct_answer": "Eine Druckänderung hat keine Auswirkung auf die Lage des Gleichgewichts"
+    },
+    {
+      "id": 13,
+      "question": "Wie viele Elektronen passen in die p-Orbitale einer Atomschale?",
+      "options": [
+        "Option 1",
+        "Option 2",
+        "Option 3",
+        "Option 4",
+        "Option 5"
+      ],
+      "correct_index": 1,
+      "correct_answer": "Option 2"
+    },
+    {
+      "id": 14,
+      "question": "Proteine sind vielfältige und essenzielle Stoffe für den menschlichen Körper. Ein Protein besteht aus bis zu 30.000 einzelnen Aminosäuren in einer definierten Sequenz, die sich dann über intramolekulare Wechselwirkungen zu Helices oder Faltblättern anordnen. Allem zugrunde liegt jedoch die Bindung der Aminosäuren in der Primärstruktur. Diese wird durch sogenannte Peptidbindungen realisiert.Zu welcher Klasse der funktionellen Gruppen gehört die Peptidbindung am ehesten?",
+      "options": [
+        "Ester",
+        "Alkohole",
+        "Aldehyde",
+        "Amine",
+        "Amide"
+      ],
+      "correct_index": 4,
+      "correct_answer": "Amide"
+    },
+    {
+      "id": 15,
+      "question": "Wie viel Mol sind 13,4g Kupfer(II)-chlorid? (Atommassen: Cu= 63u; Cl=35,5 u)",
+      "options": [
+        "0,05 mol",
+        "0,1 mol",
+        "0,2 mol",
+        "0,3 mol",
+        "0,4 mol"
+      ],
+      "correct_index": 1,
+      "correct_answer": "0,1 mol"
+    },
+    {
+      "id": 16,
+      "question": "Wie lautet die korrekte und vollständige Elektronenkonfigurationvon 20Ca2+?",
+      "options": [
+        "Option 1",
+        "Option 2",
+        "Option 3",
+        "Option 4",
+        "Option 5"
+      ],
+      "correct_index": 1,
+      "correct_answer": "Option 2"
+    },
+    {
+      "id": 17,
+      "question": "Welche der folgenden Säure-Base-Kombinationen ist am ehesten geeignet einen pH-Wert von 12 zu stabilisieren?",
+      "options": [
+        "Option 1",
+        "Option 2",
+        "Option 3",
+        "Option 4",
+        "Option 5"
+      ],
+      "correct_index": 2,
+      "correct_answer": "Option 3"
+    },
+    {
+      "id": 18,
+      "question": "Eine Reaktion mit",
+      "options": [
+        "... befindet sich bei Raumtemperatur im Gleichgewicht",
+        ".... verläuft bei niedrigen Temperaturen freiwillig, bei hohen Temperaturen nicht",
+        "... verläuft niemals freiwillig",
+        "... verläuft ab einer Temperatur von T> 2000K freiwillig",
+        "... kann zweifelsfrei durch eine Erhöhung des Drucks begünstigt werden"
+      ],
+      "correct_index": 2,
+      "correct_answer": "... verläuft niemals freiwillig"
+    },
+    {
+      "id": 19,
+      "question": "Um welche Art von Isomerie handelt es sich im folgendem Beispiel?",
+      "options": [
+        "Konstitutionsisomere",
+        "Konformationsisomere",
+        "Enantiomere",
+        "E/Z-Isomere",
+        "Diastereomere"
+      ],
+      "correct_index": 2,
+      "correct_answer": "Enantiomere"
+    },
+    {
+      "id": 20,
+      "question": "Welche funktionelle Gruppe wird beim Ringschluss von Glucose zu seiner Pyranoseform gebildet?",
+      "options": [
+        "Aldehydgruppe",
+        "Cyclisches Halbacetal",
+        "Acyclisches Halbacetal",
+        "Cyclisches Vollacetal",
+        "Acyclisches Vollacetal"
+      ],
+      "correct_index": 1,
+      "correct_answer": "Cyclisches Halbacetal"
+    },
+    {
+      "id": 21,
+      "question": "Die Fehling-Probe wird gemeinhin zum Naschweis von Aldehydgruppen herangezogen. Welche der folgenden Verbindungen, die keine Aldehydgruppe enthält, reagiert trotzdem positiv auf diese Nachweisreaktion?",
+      "options": [
+        "Saccharose",
+        "Fructose",
+        "Kaliumpermanganat",
+        "Dimethylether",
+        "Tert-Butanol"
+      ],
+      "correct_index": 1,
+      "correct_answer": "Fructose"
+    },
+    {
+      "id": 22,
+      "question": "Diie folgende Aminosäure gehört zu der Gruppe der...",
+      "options": [
+        "... basischen Aminosäuren",
+        "... sauren Aminosäuren",
+        "... neutralen Aminosäuren mit polarer Seitenkette",
+        "... neutralen Aminosäuren mit unpolarer Seitenkette",
+        "... aromatischen Aminosäuren"
+      ],
+      "correct_index": 3,
+      "correct_answer": "... neutralen Aminosäuren mit unpolarer Seitenkette"
+    },
+    {
+      "id": 23,
+      "question": "Welche Orbitale sind an der Bildung von sp2- Hybridorbitalen beteiligt?",
+      "options": [
+        "Vier s-Orbitale",
+        "Ein s-Orbital und drei p-Orbitale",
+        "Zwei s-Orbitale und zwei p-Orbitale",
+        "Ein s-Orbital und zwei p-Orbitale",
+        "Ein s-Orbital und ein p-Orbital"
+      ],
+      "correct_index": 3,
+      "correct_answer": "Ein s-Orbital und zwei p-Orbitale"
+    },
+    {
+      "id": 24,
+      "question": "Eine Säure nach Brønsted...",
+      "options": [
+        "... ist umso stärker, je größer der pKs-Wert ist",
+        "... ist ein Teilchen, das Protonen aufnehmen kann (Protonenakzeptor)",
+        "... lässt sich über ihre Anzahl an abgegebenen Protonen in starke oder schwache Säuren einteilen",
+        "... ist ein Teilchen, das Protonen abgeben kann (Protonendonator)",
+        "... kann nur durch Reaktion mit einer gleich starken Brøsted-Base neutralisiert werden"
+      ],
+      "correct_index": 3,
+      "correct_answer": "... ist ein Teilchen, das Protonen abgeben kann (Protonendonator)"
+    },
+    {
+      "id": 25,
+      "question": "Gegeben ist ein Essigsäure/ Acetatpuffer mit Konzentrationen cSäure= 0,1 mol/L und cBase= 1 mol/ L ( pKs(Essigsäure)= 4,75).Wie groß ist der pH-Wert?",
+      "options": [
+        "2,75",
+        "3,75",
+        "4,75",
+        "5,75",
+        "6,75"
+      ],
+      "correct_index": 3,
+      "correct_answer": "5,75"
+    },
+    {
+      "id": 26,
+      "question": "Aus wie vielen Aminosäuren besteht das nachfolgende Molekül?",
+      "options": [
+        "Option 1",
+        "Option 2",
+        "Option 3",
+        "Option 4",
+        "Option 5"
+      ],
+      "correct_index": 2,
+      "correct_answer": "Option 3"
+    },
+    {
+      "id": 27,
+      "question": "Welche Aussage zu den abgebildeten Verbindungen trifft nicht zu?",
+      "options": [
+        "1 und 2 sind Konstitutionsisomere",
+        "1 heißt Ethanol, 2 heißt Dimethylether",
+        "1 hat einen höheren Siedepunkt als 2",
+        "1 ist schlechter wasserlöslich als 2",
+        "Die Summenformelvon 1 und 2 lautet C2H6O"
+      ],
+      "correct_index": 3,
+      "correct_answer": "1 ist schlechter wasserlöslich als 2"
+    },
+    {
+      "id": 28,
+      "question": "Wie viele Stereozentren befinden sich im folgenden Molekül?",
+      "options": [
+        "Option 1",
+        "Option 2",
+        "Option 3",
+        "Option 4",
+        "Option 5"
+      ],
+      "correct_index": 2,
+      "correct_answer": "Option 3"
+    },
+    {
+      "id": 29,
+      "question": "Welchen pH-Wert hat eine Ammoniak Lösung mit einer Konzentration 10-3 mol/L (pKB= 4,8)?",
+      "options": [
+        "Option 1",
+        "3,9",
+        "Option 3",
+        "10,1",
+        "13,3"
+      ],
+      "correct_index": 3,
+      "correct_answer": "10,1"
+    },
+    {
+      "id": 30,
+      "question": "Warum sind kurzkettige Alkohole gut als universelle Lösungsmittel einsetzbar?",
+      "options": [
+        "Sie können sowohl als Säure als auch als Base wirken",
+        "Sie können leicht oxidiert bzw. reduziert werden",
+        "Sie haben sowohl einen polaren als auch einen unpolaren MolekülAnteil",
+        "Sie bilden keine Wasserstoffbrückenbindungen aus",
+        "Sie sind sehr klein und können damit gelöste Stoffe gut umlagern"
+      ],
+      "correct_index": 2,
+      "correct_answer": "Sie haben sowohl einen polaren als auch einen unpolaren MolekülAnteil"
+    },
+    {
+      "id": 31,
+      "question": "Wie kann ein Stereozentrum in einem Molekül identifiziert werden?",
+      "options": [
+        "Ein Stereozentrum trägt immer eine Alkohol-Gruppe",
+        "Ein Stereozentrum ist immer an der Keilstrichschreibweise erkennbar",
+        "Ein Stereozentrum trägt vier verschiedene Substituenten",
+        "Ein Stereozentrum ist das am höchsten oxidierte C-Atom der Verbindung",
+        "Ein Stereozentrum bindet immer an mind. Ein Wasserstoffatom"
+      ],
+      "correct_index": 2,
+      "correct_answer": "Ein Stereozentrum trägt vier verschiedene Substituenten"
+    },
+    {
+      "id": 32,
+      "question": "Wie viele Elektronen werden bei der Oxidation von Stickstoffmonoxid (NO) zum Nitrat-Ion (NO3-) übertragen?",
+      "options": [
+        "Option 1",
+        "Option 2",
+        "Option 3",
+        "Option 4",
+        "Option 5"
+      ],
+      "correct_index": 3,
+      "correct_answer": "Option 4"
+    },
+    {
+      "id": 33,
+      "question": "Welche Aussage zum elektrochemischen Potential eines Stoffes ist am ehesten zutreffend?",
+      "options": [
+        "die Standard-Silberelektrode ist das Bezugssystem für die elektrochemische Spannungsreihe",
+        "Aus der Nernst-Gleichung geht der hervor, dass der pH-Wert einen Einfluss auf alle elektrochemischen Potentiale hat",
+        "Die Zahlenwerte der Standardpotentiale sind immer in Relation zur Standardwasserstoffelektrode angegeben",
+        "Die Abhängigkeit des Potentials von der Konzentration wird in der Henderson-Hasselbach-Gleichung ausgedrückt",
+        "Die Elektrolytlösungen der beiden Halbzellen eines Daniell_Elements müssen ohne Verbindung zueinander vorliegen, damit keine störende Reaktionen auftreten können"
+      ],
+      "correct_index": 2,
+      "correct_answer": "Die Zahlenwerte der Standardpotentiale sind immer in Relation zur Standardwasserstoffelektrode angegeben"
+    },
+    {
+      "id": 34,
+      "question": "In welcher Realstruktur liegt das Ammoniakmolekül (NH3) gemäßdes VSEPR-Modells vor?",
+      "options": [
+        "tetraedrisch",
+        "gewinkelt",
+        "trigonal planar",
+        "trigonal pyramidal",
+        "linear"
+      ],
+      "correct_index": 3,
+      "correct_answer": "trigonal pyramidal"
+    },
+    {
+      "id": 35,
+      "question": "Wie viele Bindungspartner hat jeweils ein Kohlenstoffatom, wenn es sp-, sp2- und sp3-hybridisiert vorliegt? (Reihenfolge: sp, sp2, sp3)",
+      "options": [
+        "je 4",
+        "1, 2, 3",
+        "2, 3, 4",
+        "4, 3, 2",
+        "3, 2, 1"
+      ],
+      "correct_index": 2,
+      "correct_answer": "2, 3, 4"
+    },
+    {
+      "id": 36,
+      "question": "Warum ist Cyclohexan eine besonders stabiele cyclische Verbindung?",
+      "options": [
+        "Die hohe Symmetrie der Kohlenstoffatome sorgt für die hohe Stabilität",
+        "Die Kohlenstoff-Kohlenstoff-Bindungen sind ausschließlich sp- hybridisiert. Dies verstärkt die Stabilität.",
+        "Cyclohexan ist ein Derivat des sehr stabilen Benzols",
+        "Durch Eigendrehimpuls cyclischer Verbindungen bilden sich unbegrenzte mesomere Grenzstrukturen aus, die das Molekül stabilisieren",
+        "Die Kohlenstoffatome im Cyclohexan sind tetraedrisch angeordenet, wodurch die Ringspannung minimal wird"
+      ],
+      "correct_index": 4,
+      "correct_answer": "Die Kohlenstoffatome im Cyclohexan sind tetraedrisch angeordenet, wodurch die Ringspannung minimal wird"
+    },
+    {
+      "id": 37,
+      "question": "Welche der abgebildeten Moleküle zeigt eine Aldehydgruppe?",
+      "options": [
+        "Option 1",
+        "Option 2",
+        "Option 3",
+        "Option 4",
+        "Option 5"
+      ],
+      "correct_index": 2,
+      "correct_answer": "Option 3"
+    },
+    {
+      "id": 38,
+      "question": "Bestimmen Sie die Konfiguration des Stereozentrums und der Doppelbindung der folgenden Moleküle.",
+      "options": [
+        "R und E",
+        "R und Z",
+        "S und E",
+        "S und Z",
+        "syn und anti"
+      ],
+      "correct_index": 2,
+      "correct_answer": "S und E"
+    }
+  ]
+}

@@ -4,7 +4,7 @@ import { useState } from "react";
 import { createClient } from "@/lib/supabase/client";
 import { quizData } from "@/lib/quiz-data";
 
-const OPTION_LETTERS = ["A", "B", "C", "D"] as const;
+const OPTION_LETTERS = ["A", "B", "C", "D", "E"] as const;
 
 const fachColors: Record<
   string,
@@ -57,6 +57,16 @@ const fachColors: Record<
     topicBtn:
       "bg-sky-500/15 text-sky-300 border border-sky-500/25 hover:bg-sky-500/25",
     pill: "bg-sky-500/10 text-sky-300 border border-sky-500/20",
+  },
+  physiologie: {
+    accent: "rose",
+    text: "text-rose-400",
+    bg: "bg-rose-500/10",
+    border: "border-rose-500/25",
+    bar: "bg-rose-500",
+    topicBtn:
+      "bg-rose-500/15 text-rose-300 border border-rose-500/25 hover:bg-rose-500/25",
+    pill: "bg-rose-500/10 text-rose-300 border border-rose-500/20",
   },
 };
 

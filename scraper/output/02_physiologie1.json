@@ -1,0 +1,1018 @@
+{
+  "meta": {
+    "fach": "Physiologie 1",
+    "semester": "02",
+    "scraped_at": "2026-05-10T03:37:16.907082",
+    "total": 77,
+    "expected": 113,
+    "skipped": {
+      "skipped_images": 6,
+      "skipped_unclear": 0,
+      "skipped_no_answer": 29,
+      "duplicates": 0
+    }
+  },
+  "questions": [
+    {
+      "id": "02_physiologie1_1",
+      "question": "Wenn sich an einer erregbaren Zelle in der Membran ein nicht-elektiver Kationenkanal öffnet, passiert folgendes:",
+      "options": [
+        "Kein (Netto-) Na-Strom, kein (Netto-)Kalium-Strom, keine Änderung des Membranpotentials",
+        "Na Ausstrom > K Einstrom, Hyperpolarisation",
+        "Na-Ausstrom + K Ausstrom, Depolarisation",
+        "Na Einstrom + K-Einstrom, Hyperpolarisation",
+        "Na Einstrom > K Ausstrom, Depolarisation"
+      ],
+      "correct_index": 4,
+      "correct_answer": "Na Einstrom > K Ausstrom, Depolarisation"
+    },
+    {
+      "id": "02_physiologie1_2",
+      "question": "Mit der Nernst-Gleich lässt sich das Gleichgewichtspotential an einer Zellmembran für ein gegebenes Ion X berechnen. Es giltEx= 61/z * log ({cAußen} / c{innen})Wie groß ist das Gleichgewichtspotential für ein einwertiges, positiv geladenes Ion, welches außen in 10-fach höherer Konzentration vorliegt als innen?",
+      "options": [
+        "-61 mV",
+        "+30,5 mV",
+        "+ 61 mV",
+        "+ 128 mV",
+        "+ 610 mV"
+      ],
+      "correct_index": 2,
+      "correct_answer": "+ 61 mV"
+    },
+    {
+      "id": "02_physiologie1_3",
+      "question": "Welche Aussage bezüglich der synaptischen Signalübertragung an der motorischen Endplatte ist richtig?",
+      "options": [
+        "Entscheidend für die Erregungsübertragung auf die Skelettmuskelfaser sind muskarinische Acetylcholinrezeptoren",
+        "Normalerweise werden zur Auslösung eines Aktionspotentials in der Muskelfaser mehrere aufeinander folgende präsynaptische Aktionspotentiale benötigt.",
+        "Botulinumtoxin verursacht eine verstärkte Transmitter-Ausschütung an der motorischen Endplatte, indem es präsynaptische SNARE-Proteine spaltet.",
+        "Zur Behandlung der Myasthenia gravis kann der Abbau von Acetylcholin im synaptischen Spalt mittels Acetylcholinesterasehemmern (z.B. Neostigmin) unterdrückt werden.",
+        "Spannungsgesteuerte Na+ Kanaäle spielen für das von überschwelligen EPSPs in der Skelettmuskelfaser ausgelöste Aktionspotentail eine untergeordnete Rolle."
+      ],
+      "correct_index": 3,
+      "correct_answer": "Zur Behandlung der Myasthenia gravis kann der Abbau von Acetylcholin im synaptischen Spalt mittels Acetylcholinesterasehemmern (z.B. Neostigmin) unterdrückt werden."
+    },
+    {
+      "id": "02_physiologie1_4",
+      "question": "Wie ist der korrekte inhaltliche und zeitliche Ablauf der elektromechanischen Ankopplung bzw. Teilen davon beim Skelettmuskel?",
+      "options": [
+        "Depolarisation der Membran, Öffnung spannungsabhängiger Kalziumkanäle (DHP), Ca2+ Bindung an Myosinkopf, Kontraktion",
+        "Depolarisation der Membran, Öffnung spannungsabhänägiger Natriumkanäle, Depolarisation der Membran des Sarkoplasmatischen Retikulums, Ca-Freisetzung ins Zytosol, Kontraktion der Myofibrillen",
+        "Hyperpolarisation der Membran, Öffnung von Kir Kanälen, Kaliumvermittelte Aktivierung der PKA. Aktivierung von Troponin C, Beginn des Querbrückenzyklus",
+        "Depolarisation der Membran, Öffnung spannungsabhängiger Kalziumkanäle (DHP), mechanische Öffnung des Ryanodinrezeptors, Ca2+ Freisetzung aus sarkoplasmatischem Retikulum Ca2+ vermittelte Initiierung des Qurbrückenzyklus",
+        "Depolarisation der Membran, Öffnung spannungsabhängiger Kalziumkanäle (DHP). Ca2+ Freisetzung aus sarkoplasmatischen Retikuum, Aktivierung der SERCA (Ca-ATPase), ATP-Bindung an Aktinfilament, Verlagerung des Myosins, Verkürzung des Tropomyosins"
+      ],
+      "correct_index": 3,
+      "correct_answer": "Depolarisation der Membran, Öffnung spannungsabhängiger Kalziumkanäle (DHP), mechanische Öffnung des Ryanodinrezeptors, Ca2+ Freisetzung aus sarkoplasmatischem Retikulum Ca2+ vermittelte Initiierung des Qurbrückenzyklus"
+    },
+    {
+      "id": "02_physiologie1_5",
+      "question": "Die Effekte des Herzglykosids Digitoxin beruht auf der spezifischen Hemmung der Na+/K+ -ATPase. Welcher der folgenden Effekte wäre somit als unmittelbare Folge am ehesten zu erwarten?",
+      "options": [
+        "verringerter Einstrom von Calcium in die Zelle",
+        "Anstieg der extrazellulären Natrium-Konzentration",
+        "Absinken der extrazellulären Kalium-Konzentraion",
+        "Anstieg der intrazellulären Kalium-Konzentration",
+        "Anstieg der intrazellulären Natrium-Konzentration"
+      ],
+      "correct_index": 4,
+      "correct_answer": "Anstieg der intrazellulären Natrium-Konzentration"
+    },
+    {
+      "id": "02_physiologie1_6",
+      "question": "Welche der folgenden Aussagen zum Atemsystem trifft am ehesten zu?",
+      "options": [
+        "gelangt Luft in den Pleuraspalt, kann sich die Lunge von der Thoraxwand ablösen 82 %",
+        "der Pleuraspalt enthält 5 mL Flüssigkeit und ca. 5 mL Luft 2 %",
+        "eine Luftströmung in den Pleuraspalt führt zu einem Pleuraerguss mit eingeschränkter Inspiration 6 %",
+        "durch die Kontraktion des Zwerchfells wird der Brustraum erweitert und der intrapulmonale Druck sofort erhöht, μm die intrapulmonale Luft auszustoßen 6 %",
+        "bei einem gesunden menschen sind Ventilation und Perfusion über die gesamte Lungenoberfläche homogen 1 %"
+      ],
+      "correct_index": 0,
+      "correct_answer": "gelangt Luft in den Pleuraspalt, kann sich die Lunge von der Thoraxwand ablösen 82 %"
+    },
+    {
+      "id": "02_physiologie1_7",
+      "question": "Welche der Aussagen über den Hamburger-Shift trifft am ehesten zu?",
+      "options": [
+        "μm die Elektroneutralität der Erythrozyten zu wahren, werden HCO3- -Ionen durch einen Na+/HCO3- -Antiporter im Austausch gegen Na+ -Ionen durch die Zellmembran transportiert",
+        "μm die Elektroneutralität der Erythrozyten zu wahren, werden HCO3- -Ionen durch einen Cl-/HCO3- -Antiporter im Austausch gegen Cl- -Ionen durch die zellmembran transportiert",
+        "die spontane Haydratisierung von CO2 zu kohlensäure (H2CO3) verläuft im Plasma besonders schnell, was den Hamburger-Shift in Erythrozyten begünstigt",
+        "die Erythrozyten nutzen für die Bildung von Kohlensäure (H2CO3) aus CO2 das Enzym Carboxypeptidase A",
+        "die Erythrozyten nutzen für die Bildung von Kohlensäure (H2CO3) aus CO2 das Enzym Glykosyltransferase"
+      ],
+      "correct_index": 2,
+      "correct_answer": "die spontane Haydratisierung von CO2 zu kohlensäure (H2CO3) verläuft im Plasma besonders schnell, was den Hamburger-Shift in Erythrozyten begünstigt"
+    },
+    {
+      "id": "02_physiologie1_8",
+      "question": "Der Windkesseleffekt ist ein zentraler Mechanismus zur Blutflussregulation in den Körperkreislauf hinein. Welche der folgenden Aussagen zur Funktionsweise dieses Mechanismus ist am ehesten korrekt?",
+      "options": [
+        "Durch die hohe Compliance dehnt sich die Aorta während des frühdiastolischen Rückstroms und nimmt dabei ca. 50% des ausgeworfenen Blutes auf. 16 %",
+        "Durch Abklemmen distaler Anteile der Aorta stauen sich ca. 50% des Auswurfvolumens aus. 0 %",
+        "Der kontinuierliche Blutfluss während der Diastole wird maßgeblich durch aktive Muskelarbeit in der Aortenwand erzeugt. 4 %",
+        "Durch die hohe Compliance dehnt sich die Aorta während der Auswurfphase des Herzzyklus und nimmt dabei ca. 50% des Blutes auf. 75 %",
+        "Abzweigungen der medialen Aorta versorgen die Herzkranzgefäße während der Systole mit Blut 1 %"
+      ],
+      "correct_index": 3,
+      "correct_answer": "Durch die hohe Compliance dehnt sich die Aorta während der Auswurfphase des Herzzyklus und nimmt dabei ca. 50% des Blutes auf. 75 %"
+    },
+    {
+      "id": "02_physiologie1_9",
+      "question": "Die äußere Zellmembran von Zellen ist semipermeabel, sie lässt also manche Stoffe gut durch sie hindurch diffundieren und andere weniger gut bis gar nicht. Welche der folgenden Substanzen kann ohne weiter Transportprozesse oder spezialisierte Kanäle am besten passiv über die Membran diffundieren?",
+      "options": [
+        "Natriumionen",
+        "Bikarbonat (HCO3-)",
+        "Glucose",
+        "Sauerstoff",
+        "Keine der vorherigen Substanzen ist ohne Transportprozesse membrangängig"
+      ],
+      "correct_index": 3,
+      "correct_answer": "Sauerstoff"
+    },
+    {
+      "id": "02_physiologie1_10",
+      "question": "Einem 55-jährigen Patienten werden aufgrund von Bluthochdruck ß-Blocker verschrieben. Die Blutdrucksenkung wird im wesentlichen durch die Senkung der Auswurfleistung des Herzens erreicht. Die Konzentration welches Second messenger wird durch diese Behandlung somit typischerweise reduziert?",
+      "options": [
+        "Diacylglycerol",
+        "zyklisches AMP",
+        "Inositol-1,4,5-triphosphat",
+        "ATP",
+        "GMP"
+      ],
+      "correct_index": 1,
+      "correct_answer": "zyklisches AMP"
+    },
+    {
+      "id": "02_physiologie1_11",
+      "question": "Mittels der indirekten Kalorimetrie messen sie den Energieumsatz eines Probanden. Der Patient leistet eine körperliche Belastung auf einem Ergometer für 3 min. Anhand der Berechnung des produzierten CO2 und des verbrauchten O2 erhalten Sie einen respiratorischen Quotienten von 1,0. Welches Substrat oder Substrate dienen hier der Energiebereitstellung?",
+      "options": [
+        "Mischkost",
+        "Fette",
+        "Kohlenhydrate",
+        "Proteine",
+        "Fette und Proteine"
+      ],
+      "correct_index": 2,
+      "correct_answer": "Kohlenhydrate"
+    },
+    {
+      "id": "02_physiologie1_12",
+      "question": "Ein AV-Block 3. Grades ist ein lebensbedrohlicher Zusatnd. Welche der folgenden Aussagen trifft hier am ehesten zu?",
+      "options": [
+        "Der weiterhin bestehende QRS-Komplex findet mit einem Ersatzrythmus der tertiären Schrittmacherzentren von etwa 60-80 Schlägen pro Minute statt.",
+        "Typische Bild im EKG eines AV-Block 3. Grades ist das Ausbleiben der T-Welle nach dem QRS-Komplex.",
+        "Generell ist die P-Welle stark verringert bis abwesend, da keine Vorhofkontraktion stattfindet.",
+        "Die R-R-Intervalle liegen in Ruhe in aller Regel im Bereich von unter 800ms.",
+        "Die Vorhoferregung (P-Welle) erfolgt ohne zeitliche Korrelation mit der Kammerregung (QRS-Komplex)."
+      ],
+      "correct_index": 4,
+      "correct_answer": "Die Vorhoferregung (P-Welle) erfolgt ohne zeitliche Korrelation mit der Kammerregung (QRS-Komplex)."
+    },
+    {
+      "id": "02_physiologie1_13",
+      "question": "Weclhe Aussagen zur Fortleitung von Aktionspotentialen über Nervenfasern trifft typischerweise zu? Die Geschwindigkeit der Erregungsfortleitung",
+      "options": [
+        "steigt mit zunehmend größerer elektrischer Reizstärke.",
+        "sinkt mit größerem Axon-Querschnitt.",
+        "steigt mit zunehmnder Entfernung vom Axonhügel.",
+        "ist im Wesentlichen unabhängig von der Temperatur.",
+        "ist bei kontinuierlicher Leitung niedriger als bei saltatorischer Fortleitung."
+      ],
+      "correct_index": 4,
+      "correct_answer": "ist bei kontinuierlicher Leitung niedriger als bei saltatorischer Fortleitung."
+    },
+    {
+      "id": "02_physiologie1_14",
+      "question": "In welcher Reihenfolge laufen die ATP-liefernden prozesse im Muskel für gewöhnlich ab (schnelle bis langsame ATP-Gewinnung)?",
+      "options": [
+        "Fettsäureabbau - anaerober Glukoseabbau - aerober Glukoseabbau - ATP-Speicher - Kreatinphosphat",
+        "aerober Glukoseabbau - Fettsäureabbau - anaerober Glukoseabbau - ATP-Speicher - Kreatinphosphat",
+        "ATP-Speicher - Kreatinphosphat - anaerober Glukoseabbau - aerober Glukoseabbau - Fettsäureabbau",
+        "anaerober Glukoseabbau - aerober Glukoseabbau - ATP-Speicher - Kreatinphosphat - Fettsäureabbau",
+        "ATP-Speicher - anaerber Glukoseabbau - aerober Glukoseabbau - Kreatinphosphat - Fettsäureabbau"
+      ],
+      "correct_index": 2,
+      "correct_answer": "ATP-Speicher - Kreatinphosphat - anaerober Glukoseabbau - aerober Glukoseabbau - Fettsäureabbau"
+    },
+    {
+      "id": "02_physiologie1_15",
+      "question": "Welche der folgenden Aussagen ist am ehesten richtig? Der Druck in den kleineren Alveolen ist im Vergleich zu dem in den größeren Alveolen beim Gesunden typischerweise",
+      "options": [
+        "Kleiner, da der Radius kleiner ist",
+        "Kleiner, da der negative intrathorakale Druck entgegenwirkt",
+        "Gleichgroß, da der negative intrathorakale Druck entgegenwirkt",
+        "2-fach größer gemäß dem Gesetz von Laplace",
+        "Ungefähr gleichgroß, da das Surfectant die Oberflächenspannung der kleinen Alveolen anpasst"
+      ],
+      "correct_index": 3,
+      "correct_answer": "2-fach größer gemäß dem Gesetz von Laplace"
+    },
+    {
+      "id": "02_physiologie1_16",
+      "question": "Der Gefäßwiderstand trägt im Niederdrucksystem nur mäßig zum Blutdruck bei. Dies lässt sich am ehesten zurückzuführen auf:",
+      "options": [
+        "den Gefäßquerschnitt",
+        "die Compliance der Venen",
+        "den venösen Rückstrom zum Herzen",
+        "die Körperlage",
+        "prälapilläre Sphinkteren"
+      ],
+      "correct_index": 1,
+      "correct_answer": "die Compliance der Venen"
+    },
+    {
+      "id": "02_physiologie1_17",
+      "question": "Welche Aussagen über den Effekt von Vitamin-K auf die Hämostase ist am ehesten korrekt?",
+      "options": [
+        "Bei Vitamin-K-Mangel wird nicht ausreichend Fibrinogen produziert",
+        "Vitamin-K ist erforderlich für die Bildung und Aktivierung von den Gerinnungsfaktoren II, VII, IX, und X in der Leber",
+        "Bei Vitamin-K-Mangel kann die primäre Hämostase nicht korrekt ablaufen",
+        "Vitamin-K ist erfoderlich für die Bildung und Aktivierung der Gerinnungsfaktoren III, IV, V, IV in der Leber",
+        "Vitamin-K verhindert die Bindung von Gerinnungsfaktoren über Calcium-Ionen an der Oberfläche der Thrombozyten"
+      ],
+      "correct_index": 1,
+      "correct_answer": "Vitamin-K ist erforderlich für die Bildung und Aktivierung von den Gerinnungsfaktoren II, VII, IX, und X in der Leber"
+    },
+    {
+      "id": "02_physiologie1_18",
+      "question": "Das Pfeilgift Curare hat als kompetitiver Antagonist eines bestimmten Neurotransmitters Einfluss auf das Muskelaktionspotential. An welchen Kanal der neuromuskulären Endplatte wirkt es?",
+      "options": [
+        "Spannungsabhängiger Natriumkanal",
+        "Ligandenabhängiger Kationenkanal",
+        "Spannungsabhängiger Kaliumkanal",
+        "Spannungsabhängiger Chloridkanal",
+        "Spannungsabhängiger Kalziumkanal"
+      ],
+      "correct_index": 1,
+      "correct_answer": "Ligandenabhängiger Kationenkanal"
+    },
+    {
+      "id": "02_physiologie1_19",
+      "question": "Was besagt die Hüfner-Zahl?",
+      "options": [
+        "Die Hüfner-Zahl beschreibt den O2-Gehalt des desoxygenierten Blutes",
+        "Die Hüfner-Zahl ändert sich gemäß dem arteriellen Sauerstoff-Partialdruck",
+        "Die Hüfner-Zahl beschreibt das Sauerstoffvolumen, das von 1g Hämoglobin maximal gebunden wird",
+        "Die Hüfner-Zahl beschreibt die Bindung des O2 an Methämoglobin",
+        "Die Hüfner-Zahl beschreibt O2-Fraktion im inspiratorischen Gasgemisch"
+      ],
+      "correct_index": 2,
+      "correct_answer": "Die Hüfner-Zahl beschreibt das Sauerstoffvolumen, das von 1g Hämoglobin maximal gebunden wird"
+    },
+    {
+      "id": "02_physiologie1_20",
+      "question": "Welche Aussage zur Compliance des Atemapparates (Lunge und Thorax) trifft am ehesten zu?",
+      "options": [
+        "Sie entspricht dem Kehrwert der Resistance",
+        "Sie ist bei einer restriktiven Ventilationsstörung (z.B. Lungenfibrose) typischerweise vermindert",
+        "Sie ist bei maximaler Expiration am größten",
+        "Sie ist bei Surfectant-Mangel typischerweis erhöht",
+        "Sie ist der Quotient aus VC (Vitalkapazität) und FRC (funktioneller Residualkapazität)"
+      ],
+      "correct_index": 1,
+      "correct_answer": "Sie ist bei einer restriktiven Ventilationsstörung (z.B. Lungenfibrose) typischerweise vermindert"
+    },
+    {
+      "id": "02_physiologie1_21",
+      "question": "Der Querbrückenzyklus ist zentraler Bestandteil der Muskelbewegung. Welches Molekül sorgt für die Ablösung des Myosins vom Aktin?",
+      "options": [
+        "cAMP",
+        "cGMP",
+        "ADP",
+        "ATP",
+        "PKA"
+      ],
+      "correct_index": 3,
+      "correct_answer": "ATP"
+    },
+    {
+      "id": "02_physiologie1_22",
+      "question": "Bei einer Zelle betrage die Konzentration eines zweifach positiv geladenen Kations zytosolisch 185 mmol/L und extrazellulär 18.5 mmol/L. In etwa wie groß ist das Gleichgewichtspotential dieses Ions bei einer Temperatur von 37°C?",
+      "options": [
+        "-60mV 16 %",
+        "-30mV 60 %",
+        "0mV 0 %",
+        "+30mV 15 %",
+        "+60mV 6 %"
+      ],
+      "correct_index": 1,
+      "correct_answer": "-30mV 60 %"
+    },
+    {
+      "id": "02_physiologie1_23",
+      "question": "Welche Aussage zur Ableitung extrazellulärer Summenaktionspotentiale (SAP) ist am ehesten richtig?",
+      "options": [
+        "Die maximale Reizstärke (in mV), bei der das größte Summenaktionspotential ausgelöst wird, wird Rheobase genannt",
+        "Der spannungsabhängige Na+v-Kanal kann in 3 Zuständen vorliegen. Der inaktivierbare Zusatnd ist ursächlich für die neuronale Refraktärzeit",
+        "Summenaktionspotentiale pflanzen sich entlang der markhaltigen Nerven mit einer maximalen Geschwindigkeit von bis zu 1,2 m/s fort",
+        "In der absoluten Refraktärzeit befinden sich alle spannungsabhängigen K+v-Kanäle in ihrem inaktivierbaren Zustand",
+        "Als Chronaxie bezeichnet man die Zeit zwischen relativer und absoluter Refraktörzeit"
+      ],
+      "correct_index": 1,
+      "correct_answer": "Der spannungsabhängige Na+v-Kanal kann in 3 Zuständen vorliegen. Der inaktivierbare Zusatnd ist ursächlich für die neuronale Refraktärzeit"
+    },
+    {
+      "id": "02_physiologie1_24",
+      "question": "Welche Aussage zur Angiogenese (Gefäßneubildung) ist am ehesten richtig?",
+      "options": [
+        "Die Angiogenese ist ein unregulierter Prozess des Gewebes",
+        "Ein pO2 unter 40 mmHg im Gewebe hemmt die die Angiogenese",
+        "Eine Hemmung der Angiogenese ist Voraussetzung dafür, dass sich Krebszellen unkontrolliert teilen können",
+        "Sie ist im Alter von 18 Jahren praktisch abgeschlossen",
+        "Sie wird durch Signalkaskaden gesteuert, die durch den Wachstumsfaktor VEGF (Vascular Endothelial Growth Factor) kontrolliert werden"
+      ],
+      "correct_index": 4,
+      "correct_answer": "Sie wird durch Signalkaskaden gesteuert, die durch den Wachstumsfaktor VEGF (Vascular Endothelial Growth Factor) kontrolliert werden"
+    },
+    {
+      "id": "02_physiologie1_25",
+      "question": "Welche der folgenden Angaben ist keine Beatmungsform?",
+      "options": [
+        "nichtinvasive Beatmung",
+        "invasive Beatmung",
+        "druckkontrollierte Beatmung",
+        "volumenkontrollierte Beatmung",
+        "azentrierte Beatmung"
+      ],
+      "correct_index": 4,
+      "correct_answer": "azentrierte Beatmung"
+    },
+    {
+      "id": "02_physiologie1_26",
+      "question": "In welchem Bereich liegt die maximale Sauerstoffaufnahme (VO2 max) für einen normal leistungsfähigen Mann im Alter zwischen 20-30 Jahren am ehesten?",
+      "options": [
+        "15 ml / kg x min",
+        "25 ml / kg x min",
+        "45 ml / kg x min",
+        "75 ml / kg x min",
+        "95 ml / kg x min"
+      ],
+      "correct_index": 2,
+      "correct_answer": "45 ml / kg x min"
+    },
+    {
+      "id": "02_physiologie1_27",
+      "question": "Eine vertsärkte Vorhofdehnung führt zur Erregung der Typ-B-Dehnungsrezeptoren der Vorhöfe (Gauer-Henry-Reflex). Darauf folgt am ehesten:",
+      "options": [
+        "eine Hypervolämie",
+        "eine Steigerung der renalen Freisetzung von Renin",
+        "eine Hemmung des Parasympathikus",
+        "eine Steigerung des Sympathikotonus",
+        "eine vermehrte renale Wasserausscheidung bedingt durch Hemmung der ADH-Freisetzung aus der Hypophyse"
+      ],
+      "correct_index": 4,
+      "correct_answer": "eine vermehrte renale Wasserausscheidung bedingt durch Hemmung der ADH-Freisetzung aus der Hypophyse"
+    },
+    {
+      "id": "02_physiologie1_28",
+      "question": "Welche der folgenden Methoden der Lungenfunktionsdiagnostik ermöglicht (bei bereits bekannter Inspirationskapazität) am ehesten die Bestimmung der totalen Lungenkapazität?",
+      "options": [
+        "Bodyplethmysmographie (Ganzkörperplethysmographie) mit Atmung bei dauerhaft offenem Mundstück",
+        "Bodyplethysmographie (Ganzkörperplethysmographie) mit Atmung gegen vorübergehend verschlossenes Mundstück",
+        "Pneumotachographie",
+        "Ermittlung der maximalen exspiratorischen Atemstromstärke mittels Peak-Flow-Meter",
+        "Spirometrie mittels konventionelem Glockenspirometer"
+      ],
+      "correct_index": 1,
+      "correct_answer": "Bodyplethysmographie (Ganzkörperplethysmographie) mit Atmung gegen vorübergehend verschlossenes Mundstück"
+    },
+    {
+      "id": "02_physiologie1_29",
+      "question": "Bei der primären Bultstillung spielt der vWF eine wichtige Rolle. Welche der folgenden Aussagen zum vWf ist korrekt ?",
+      "options": [
+        "Wird auch als Gerrinungsfaktor II bezeichent",
+        "ist ein Protein,das den GErinnungsfaktor VIII destabilisiert und dessen Abbaurate erhöt",
+        "Der vWF ist bei Endothelläsionen das Bindeglied zwischen subendothelialer MAtrix und der Thrombozytenmembran",
+        "Wird in reifen erythrozyten synthetisiert",
+        "Wirkt als Plasminogen Aktivator"
+      ],
+      "correct_index": 2,
+      "correct_answer": "Der vWF ist bei Endothelläsionen das Bindeglied zwischen subendothelialer MAtrix und der Thrombozytenmembran"
+    },
+    {
+      "id": "02_physiologie1_30",
+      "question": "Welche Aussage zu den Blutgruppensystemen ist korrekt ?",
+      "options": [
+        "Blutgruppe 0 besitzen keine Antikörper gegen Blutgruppenantigene A",
+        "Blutgruppe 0 tragen die Antigenmerkmale A und B auf der Oberfläche",
+        "Menschen der Blutgruppe B besitzen antikörper gegen das Anitgen B",
+        "Die Grundlage des ABO - Butgruppensystems stllen Glykolipide auf der Oberfläche der Erythrozyten da",
+        "Die Grundlage des Rehsus Blutgruppensystems stellen oligosacharide auf der Oberfläche der Erythrozyten dar"
+      ],
+      "correct_index": 3,
+      "correct_answer": "Die Grundlage des ABO - Butgruppensystems stllen Glykolipide auf der Oberfläche der Erythrozyten da"
+    },
+    {
+      "id": "02_physiologie1_31",
+      "question": "Verdacht auf Lungenembolie. Eine Thrombose wäre am ehesten bedingt durch ?",
+      "options": [
+        "Freisetzung von Heprain aus MAstzellen",
+        "erhöhter Hirudinspiegel",
+        "vermidnete Freisetzung von Thromboxan A2 durch thrombozyten",
+        "vermindeter protelytischer Abbau von Faktor VIIIa",
+        "Verstärkte Umwandlung von Plasminogen in Plasmin"
+      ],
+      "correct_index": 3,
+      "correct_answer": "vermindeter protelytischer Abbau von Faktor VIIIa"
+    },
+    {
+      "id": "02_physiologie1_32",
+      "question": "Koronararterie wird durch eine Koronarintervention aufgeweitet.Unter der vereinfachten Annahme es Hagen posieullile Gestzten gilt. Wie hat sich der Gefäßdurchmesser erhöht",
+      "options": [
+        "1,5",
+        "Option 2",
+        "Option 3",
+        "Option 4",
+        "Option 5"
+      ],
+      "correct_index": 4,
+      "correct_answer": "Option 5"
+    },
+    {
+      "id": "02_physiologie1_33",
+      "question": "Die elektronendichte Granula der Thrombozyten spielen eine wichtige bei der Thrombozytenaktivierung. Ein darin enthaltener typischer inhaltsstoff welcher viele Funktion übernimmt ist ?",
+      "options": [
+        "Fibrinogen",
+        "Gerinnungsfaktor VII",
+        "Plättchenfaktor 4",
+        "Adenosindiphosphat",
+        "Stickstoffmonoxid"
+      ],
+      "correct_index": 3,
+      "correct_answer": "Adenosindiphosphat"
+    },
+    {
+      "id": "02_physiologie1_34",
+      "question": "Welche der folgenden Aussagen über Thrombozyten trifft für den erwachsenen Menschen am ehesten zu ?",
+      "options": [
+        "Thrombozytenanzahl liegt bei 2,5ul",
+        "PGL2 fördeert die Aggregation der Thrombozyten im Zuge der primären Hämostase",
+        "Die Bindung von ADP an Rezeptoren auf der Thrombozytenoberfläche fördert die Thrombozytenaggregation",
+        "Die funktion der Thrombozytenaggregation als wichtiger erster Schritt der Primären Hämostase, wird klinisch durch den Quick Wert abgebildet",
+        "Die mittlere Verweildauer von Thrombozyten im Blut beträgt 5-12 Tage"
+      ],
+      "correct_index": 2,
+      "correct_answer": "Die Bindung von ADP an Rezeptoren auf der Thrombozytenoberfläche fördert die Thrombozytenaggregation"
+    },
+    {
+      "id": "02_physiologie1_35",
+      "question": "Der Quotient aus CO2 ABgabe und 2 Aufnahme über die Lunge",
+      "options": [
+        "beträgt Ausschlieslicher Kohlenhydratverbrennung 1 55 %",
+        "dient als Maß für die Effekticität des CO2-Transports in den Erythrozyten 7 %",
+        "ermöglicht die Berechnung des Sauerstoffverbrauchs bei Kenntnis der ateriovenösen sauerstoffdifferenz 15 %",
+        "fällt während aufregugsbedingter hyperventilation ab 8 %",
+        "ist bei Enstehung einer respiratorischen azidose erhöht 11 %"
+      ],
+      "correct_index": 0,
+      "correct_answer": "beträgt Ausschlieslicher Kohlenhydratverbrennung 1 55 %"
+    },
+    {
+      "id": "02_physiologie1_36",
+      "question": "Welche Aussage zum Baro Relfex ist richtig",
+      "options": [
+        "Barrorezeptoren sind in beidnen Herzvorhöfen lokalisiert",
+        "Durch die verringerte Dehnung des Blutgefäßes schliessen sich mechanosensitive Kationenkanäle , die impulsfrequenz der Barorezeptoren sinkt",
+        "Der totale periphere Widerstand sinkt",
+        "Die Aktivität der Barorezeptoren ist bei chronisch erniedrigtem Blutdurck dauerhaft verringert",
+        "Die kreislaufregulatorischen Neuronen in der Medulla oblongata veränder die Herzfrequenz durch inhibition sympathischer Efferenzen und Aktivierung parasympathischer Efferenzen"
+      ],
+      "correct_index": 1,
+      "correct_answer": "Durch die verringerte Dehnung des Blutgefäßes schliessen sich mechanosensitive Kationenkanäle , die impulsfrequenz der Barorezeptoren sinkt"
+    },
+    {
+      "id": "02_physiologie1_37",
+      "question": "Welche der folgenden Meschanismen beschreibt am ehesten die Wirkung von Histamin auf das Her-Kreislauf sytsem",
+      "options": [
+        "Eine Blutdrucksenkung durch Vasokonstriktion",
+        "Eine Vasodilitation durch indirekte Freisetzung von Btadykinin",
+        "Eine Aktivierung des Sympathikus",
+        "HErzrasen, Vasodilitation der peripheren Gefäße und Abfall des Blutdrucks",
+        "STickstoffmonoxid -Freisetzung und Vasokonstriktion"
+      ],
+      "correct_index": 3,
+      "correct_answer": "HErzrasen, Vasodilitation der peripheren Gefäße und Abfall des Blutdrucks"
+    },
+    {
+      "id": "02_physiologie1_38",
+      "question": "Welche der folgenden Molekühle gehört nich zum Feinbau des Sarkromers",
+      "options": [
+        "Myosin",
+        "Tubulin",
+        "Aktin",
+        "Tropomyosin",
+        "Titin"
+      ],
+      "correct_index": 1,
+      "correct_answer": "Tubulin"
+    },
+    {
+      "id": "02_physiologie1_39",
+      "question": "Muskellänge verändert sich die Spannung bleibt aber gleich",
+      "options": [
+        "Isometrische kontraktion",
+        "isotonische",
+        "Auxotonische",
+        "Unterstzüzungszuckung",
+        "Anschlagszuckung"
+      ],
+      "correct_index": 1,
+      "correct_answer": "isotonische"
+    },
+    {
+      "id": "02_physiologie1_40",
+      "question": "ph 7,8 po2:100mmhg pCO2 47 mmhg BE +13 mmol/l",
+      "options": [
+        "respiratorische Alkalose , metabolische teilkompenisiert",
+        "metabolische Alkalose , nicht kompensiert",
+        "gemischt respiratorische und metabolische Alkalose",
+        "metabolische Azidose, respiratorsiche teilkompensiert",
+        "metabolische Alkalose, respiratorisch teilkompenisert"
+      ],
+      "correct_index": 4,
+      "correct_answer": "metabolische Alkalose, respiratorisch teilkompenisert"
+    },
+    {
+      "id": "02_physiologie1_41",
+      "question": "Welche Definiton ist richitg? Die maximale Sauerstoffaufnahme (VO2max) ist",
+      "options": [
+        "diejenige Menge an Sauerstoff ,welche bei maximaler inspiration eingeatmet wird",
+        "diejenige Menge an Sauerstoff, welche am Ende der Expiration noch in der Lunge verbleibt",
+        "das Bruttp kriterium für die maximale aerobe Leistungsfähigkeit eines Menschen",
+        "eine andere Bezeichnung für die Sauerstoffsättigung",
+        "diejenige Menge an Sauertsoff , welche am Ende nach maximaler Expiration in der Ausatemluft gemessen wird"
+      ],
+      "correct_index": 2,
+      "correct_answer": "das Bruttp kriterium für die maximale aerobe Leistungsfähigkeit eines Menschen"
+    },
+    {
+      "id": "02_physiologie1_42",
+      "question": "Bei ungleich verteilten Ionen an der Biomembran, entsteht ein Konzentrationsgradient zwischen der elektrischen und chemischen Triebkraft über die Membra, welcher Ionen ausgeliefert hat. Mit der Nernstgleichung lässt sich daraus das Potential des Ionen X berechnen. Wie groß ist das Potential für ein einwertiges, positiv geladenes Ion, welches außen in 10-fach höherer Konzentration vorliegt als innen?",
+      "options": [
+        "-61mV",
+        "+30,5 mV",
+        "+61mV",
+        "+128mV",
+        "-30,5mV"
+      ],
+      "correct_index": 2,
+      "correct_answer": "+61mV"
+    },
+    {
+      "id": "02_physiologie1_43",
+      "question": "Ordnen Sie die interstitiellen Konzentrationen einer typischen Zelle von Ca2+, Cl-, und Na+ in absteigender Reihenfolge.",
+      "options": [
+        "Na>Ca>Cl",
+        "Ca>Na>Cl",
+        "Na>Cl>Ca",
+        "Cl>Ca>Na",
+        "Cl>Na>Ca"
+      ],
+      "correct_index": 2,
+      "correct_answer": "Na>Cl>Ca"
+    },
+    {
+      "id": "02_physiologie1_44",
+      "question": "Sie untersuchen einen Patienten, der sich mit Müdigkeit vorstellt. Da er angibt, dass er sich vegetarisch ernährt, vermuten Sie eine Eisenmangelanämie und nehmen Blut ab. Welche der folgenden Befundkonstellationen würde Ihre Verdachtdiagnose erhärten?",
+      "options": [
+        "Hb erhöht, MCH erhöht",
+        "Hb erhöht, MCV erniedrigt",
+        "Hb normal, Hkt erhöht",
+        "Hb erniedrigt, MCH erniedrigt",
+        "Hb erniedrigt, MCV erhöht"
+      ],
+      "correct_index": 3,
+      "correct_answer": "Hb erniedrigt, MCH erniedrigt"
+    },
+    {
+      "id": "02_physiologie1_45",
+      "question": "Welche Aussage zum Herzzyklus ist korrekt?",
+      "options": [
+        "Die Anspannungs- und Füllphase sind isovolumetrisch",
+        "Die Ventrikelkontraktion fällt in die Systole",
+        "Das Öffnen der Taschenklappen fällt in die Diastole",
+        "Die R-Zacke im EKG markiert den Beginn der Erschlaffungsphase",
+        "Zu keinem Zeitpunkt sind alle Herzklappen gleichzeitig geschlossen"
+      ],
+      "correct_index": 1,
+      "correct_answer": "Die Ventrikelkontraktion fällt in die Systole"
+    },
+    {
+      "id": "02_physiologie1_46",
+      "question": "Chlorid ist das häufigste Anion des Extrazellulärraumes und hat wichtige Funktionen. Welche der u.g. Aussagen ist richtig?",
+      "options": [
+        "Chloridkanal-gekoppelte Rezeptoren wirken im erwachsenen Organismus stets exzitatorisch.",
+        "Der Ausstrom von Chlorid aus der Zelle ist der Hauptmechanismus für die regulatorische Volumenzunahme der Zelle nach osmotischer Schrumpfung.",
+        "Chloridkanäle können Zellen depolarisieren, wenn das Membranpotenzial negativer als das Gleichgewichtspotenzial (Umkehrpotenzial) für Chlorid ist.",
+        "Der Transport von Chlorid erfolgt typischerweise in einem Symport, der insgesamt ein Chlorid-Ion und ein Bikarbonat-Ion umfasst.",
+        "Die Depolarisation von Skelettmuskelfasern wird typischerweise durch den Einstrom von Chlorid ausgelöst."
+      ],
+      "correct_index": 3,
+      "correct_answer": "Der Transport von Chlorid erfolgt typischerweise in einem Symport, der insgesamt ein Chlorid-Ion und ein Bikarbonat-Ion umfasst."
+    },
+    {
+      "id": "02_physiologie1_47",
+      "question": "Welche Aussage bzgl. der synaptischen Signalübertragung an der motorischen Endplatte ist korrekt?",
+      "options": [
+        "Entscheidend für die Erregungsübertragung auf die Skelettmuskelfaser sind muskarinische Acetylcholin-Rezeptoren.",
+        "Zur Auslösung eines Aktionspotenzials in der Muskelfaser wird eine Aufsummierung aufeinander folgender präsynaptischer Aktionspotenziale benötigt (unvollständiger Tetanus).",
+        "Botulinumtoxin verursacht eine verstärkte Transmitter-Ausschüttung an der motorischen Endplatte, indem es präsynaptische SNARE-Proteine spaltet.",
+        "Zur Behandlung der Myasthenia gravis kann der Abbau von Acetylcholin im synaptischen Spalt mittels Acetylcholinesterasehemmern unterdrückt werden.",
+        "Spannungsgesteuerte Na+ - Kanäle spielen für das von überschwelligen EPSPs in der Skelettmuskelfaser ausgelöste Aktionspotenzial keine Rolle."
+      ],
+      "correct_index": 3,
+      "correct_answer": "Zur Behandlung der Myasthenia gravis kann der Abbau von Acetylcholin im synaptischen Spalt mittels Acetylcholinesterasehemmern unterdrückt werden."
+    },
+    {
+      "id": "02_physiologie1_48",
+      "question": "Welche Aussage über das Aktionspotenzial einer Warmblüter-Nervenfaser ist korrekt?",
+      "options": [
+        "Ohne Nachpotenzial dauert das Aktionspotenzial etwa 10 ms.",
+        "Die Depolarisationsphase des Aktionspotenzials beruht auf einer Vergrößerung des Kaliumstroms.",
+        "Zur Repolarisation des Aktionspotenzials trägt die Inaktivierung der Na+ - Kanäle bei.",
+        "Das Spitzenpotenzial des Aktionspotenzials hat einen positiveren Wert als das Natriumgleichgewichtspotenzial.",
+        "Eine auftretende Nachhyperpolarisation ist durch starke Zunahme der Na+ - Leitfähigkeit bedingt."
+      ],
+      "correct_index": 2,
+      "correct_answer": "Zur Repolarisation des Aktionspotenzials trägt die Inaktivierung der Na+ - Kanäle bei."
+    },
+    {
+      "id": "02_physiologie1_49",
+      "question": "Durch welchen Prozess wird der Querbrückenzyklus eines Skelettmuskels beendet?",
+      "options": [
+        "Durch das Ausbleiben eines erneuten Aktionspotenzials passiert nichts mehr und der Zyklus ist beendet.",
+        "Das Sinken des intrazellulären CA2+ - Spiegels (vor allem durch Aktivierung der SERCA) beendet den Vorgang.",
+        "Die ATPase-Aktivität des Myosinkopfes steigt, sodass der Querbrückenzyklus unterbrochen wird.",
+        "Durch Steigen der K+ - Konzentration kann kein neues Aktionspotenzial ausgelöst werden, was den Vorgang beendet.",
+        "Da der Myosinkopf am Ende des Querbrückenzyklus seine Lage verändert, kann ein neues ATP-Molekül gebunden werden, sodass dieser Prozess nie endet, weshalb man auch von einem Zyklus spricht."
+      ],
+      "correct_index": 1,
+      "correct_answer": "Das Sinken des intrazellulären CA2+ - Spiegels (vor allem durch Aktivierung der SERCA) beendet den Vorgang."
+    },
+    {
+      "id": "02_physiologie1_50",
+      "question": "Welche Aussage zum Aktionspotenzial (AP) der Skelettmuskelzelle ist korrekt?",
+      "options": [
+        "Das AP wird durch die Aktivierung spannungsabhängiger Chloridkanäle initiiert.",
+        "Die Dauer des AP entspricht der typischen Dauer des AP einer Herzmuskelzelle im Arbeitsmyokard.",
+        "Das über die Skelettmuskelzelle laufende AP sorgt für eine Konformationsänderung des DHP-Rezeptors in der Zellmembran.",
+        "Das über die Skelettmuskelzelle laufende AP wird über die longitudinalen Tubuli der Muskelfaser fortgeleitet.",
+        "Das AP aktiviert den im Sarkolemm sitzenden Ryanodin-1-Rezeptor, der für die Ausschüttung der zellinternen CA2+ -Speicher verantwortlich ist."
+      ],
+      "correct_index": 2,
+      "correct_answer": "Das über die Skelettmuskelzelle laufende AP sorgt für eine Konformationsänderung des DHP-Rezeptors in der Zellmembran."
+    },
+    {
+      "id": "02_physiologie1_51",
+      "question": "Eine auffällig blasse Frau kommt wegen Erschöpfung in Ihre Sprechstunde. Blutbild: Erythrozytenanzahl: 2.5 * 10^12/l, Hämatokrit: 0.26, Hämoglobinkonzentration: 90 g/l, MCV: 105, MCH: 36 pg. Sie vermuten eine Anämie. Welche Ursache ist am wahrscheinlichsten?",
+      "options": [
+        "Eisenmangel",
+        "Vitamin B12-Mangel",
+        "Niereninsuffizienz",
+        "Unentdeckte Tumorerkrankung",
+        "Blutendes Magengeschwür"
+      ],
+      "correct_index": 1,
+      "correct_answer": "Vitamin B12-Mangel"
+    },
+    {
+      "id": "02_physiologie1_52",
+      "question": "Welche Aussage zum AB0-Blutgruppensystem trifft zu?",
+      "options": [
+        "Menschen mit der Blutgruppe 0 besitzen keine Antikörper gegen die Blutgruppenantigene A und B.",
+        "Erythrozyten der Blutgruppe 0 tragen die Antigene A und B.",
+        "Menschen der Blutgruppe B besitzen Antikörper gegen das Antigen B.",
+        "Als Antigene dieses Blutgruppensystems dienen Glykolipide auf der Oberfläche der Erythrozytenmembran.",
+        "Weltweit ist die Blutgruppe B die am häufigsten vertretene Blutgruppe."
+      ],
+      "correct_index": 3,
+      "correct_answer": "Als Antigene dieses Blutgruppensystems dienen Glykolipide auf der Oberfläche der Erythrozytenmembran."
+    },
+    {
+      "id": "02_physiologie1_53",
+      "question": "Welche Aussage zur atrioventrikulären Überleitungszeit trifft zu?Eine Abnahme der AV-Überleitungszeit...",
+      "options": [
+        "ist ein Hinweis auf einen AV-Block 1. Grades.",
+        "ist das Resultat einer Abnahme der Herzfrequenz.",
+        "führt im EKG typischerweise zu einer Verkürzung des PQ-Intervalls.",
+        "tritt typischerweise durch Wirkung von Acetylcholin am AV-Knoten auf.",
+        "entspricht einer negativ chronotropen Wirkung."
+      ],
+      "correct_index": 2,
+      "correct_answer": "führt im EKG typischerweise zu einer Verkürzung des PQ-Intervalls."
+    },
+    {
+      "id": "02_physiologie1_54",
+      "question": "In welcher Phase des Herzzyklus ist das Blutvolumen in den Kammern konstant?",
+      "options": [
+        "Austreibungsphase",
+        "Diastole",
+        "Füllphase",
+        "Systole",
+        "Entspannungsphase"
+      ],
+      "correct_index": 4,
+      "correct_answer": "Entspannungsphase"
+    },
+    {
+      "id": "02_physiologie1_55",
+      "question": "Das vegetative Nervensystem ist für die extrakardiale Regulation der Herztätigkeit zuständig. Wodurch wird am Herzen ein positiv chronotroper und positiv inotroper Effekt bewirkt?",
+      "options": [
+        "Durch die Aktivierung der Kir-Kanäle im Sinusknoten",
+        "Durch die Wirkung von Adrenalin am β1-Rezeptor im Sinusknoten",
+        "Durch Blockade der β1-Rezeptoren durch Acetylcholin im Sinusknoten",
+        "Durch die Wirkung des Parasympathikus am Kammer-Myokard",
+        "Durch eine Steigerung des intrazellulären Ca2+ -Levels, wie bspw. nach Gabe von Herzglykosiden"
+      ],
+      "correct_index": 1,
+      "correct_answer": "Durch die Wirkung von Adrenalin am β1-Rezeptor im Sinusknoten"
+    },
+    {
+      "id": "02_physiologie1_56",
+      "question": "Der Frank-Starling-Mechanismus beschreibt die passive Regulation der Auswurfleistung. Welche Aussage ist korrekt?",
+      "options": [
+        "Die Stärke der Auswurfleistung resultiert aus der Aktivierungsstärke der HCN-Kanäle.",
+        "Der Frank-Starling-Mechanismus beruht auf der Sensitivität des Kammermyokards für Acetylcholin.",
+        "Die Kontraktilität des Herzmuskels nimmt mit steigender Vorlast stetig ab.",
+        "Die höhere Auswurfleistung bei erhöhter Vordehnung resultiert aus einer erhöhten Ca2+ -Sensitivität der kontraktilen Filamente.",
+        "Die Wanddicke steigt immer proportional mit der Wandspannung der Herzkammer."
+      ],
+      "correct_index": 3,
+      "correct_answer": "Die höhere Auswurfleistung bei erhöhter Vordehnung resultiert aus einer erhöhten Ca2+ -Sensitivität der kontraktilen Filamente."
+    },
+    {
+      "id": "02_physiologie1_57",
+      "question": "Die Öffnung welcher Ionenkanäle ist vornehmlich für die Stabilisierung des Ruhepotentials an der Membran einer typischen Nervenzelle verantwortlich",
+      "options": [
+        "Spannungsabhängige Na+ Kanäle",
+        "Spannungsabhängige Ca2+ Kanäle",
+        "Spannungsabhängige K+ Kanäle",
+        "Spannungsabhängige Cl-Kanäle",
+        "Einwärts gerichtete Kaliumkanäle"
+      ],
+      "correct_index": 4,
+      "correct_answer": "Einwärts gerichtete Kaliumkanäle"
+    },
+    {
+      "id": "02_physiologie1_58",
+      "question": "Die Natrium-Kalium-Pumpe ist ein wichtiges Element für den Zellstoffwechsel einer jeden Zelle. Welche Aussage zur Na+/K+ ATPase ist richtig?",
+      "options": [
+        "Die Na+/K+ ATPase vermittelt einen Na+/K+ Symport",
+        "Die Na+/K+ ATPase ist ein Carrier, der die Diffusion von Na+ und K+ über die Zellmembran erleichtert",
+        "Die Na+/K+ ATPase transportiert unter ATP verbrauch transportier 3 Natrium aus der Zelle und 2 Kalium in die Zelle",
+        "Die Na+/K+ Atpase transportiert zusätlich primär aktiv Glukose in die Zelle",
+        "Die Na+/K+ ATPase transportiert immer gleiche viele Ladungsträger beim Antiport, so dass das Membranpotenzial dadurch nicht verändert wird"
+      ],
+      "correct_index": 2,
+      "correct_answer": "Die Na+/K+ ATPase transportiert unter ATP verbrauch transportier 3 Natrium aus der Zelle und 2 Kalium in die Zelle"
+    },
+    {
+      "id": "02_physiologie1_59",
+      "question": "Kommt es zu einer Mutation und somit zu einem Funktionsverlust eines Ionenkanals der Präsynapse, so verhindert dies die Vesikelfusion und die Freisetzung eines Neurotransmitters. Um welchen Ionenkanal handelt es sich dabei am ehsten.",
+      "options": [
+        "Kir Kanal",
+        "Na+ Kanal",
+        "Kto+ Kanal",
+        "Ca2+ Kanal",
+        "Cl- Kanal"
+      ],
+      "correct_index": 3,
+      "correct_answer": "Ca2+ Kanal"
+    },
+    {
+      "id": "02_physiologie1_60",
+      "question": "Was besagt die Hüfner Zahl?",
+      "options": [
+        "Die Hüfner-Zahl beschreibt den O2-Gehalt des desoxygenierten Blutes",
+        "Die Hüfner-Zahl ändert sich gemäß dem arteriellen Sauerstoff-Partialdruck",
+        "Die Hüfner-Zahl beschreibt das Sauerstoffvolumen, das von 1g Hämoglobin maximal gebunden werden kann",
+        "Die Hüfner-Zahl beschreibt die Bindung des O2 an Methhämoglobin",
+        "Die Hüfner-Zahl beschreibt O2-Fraktion im inspiratorischen Gasgemisch"
+      ],
+      "correct_index": 2,
+      "correct_answer": "Die Hüfner-Zahl beschreibt das Sauerstoffvolumen, das von 1g Hämoglobin maximal gebunden werden kann"
+    },
+    {
+      "id": "02_physiologie1_61",
+      "question": "Bei einer Zelle betrage die Konzentration eines einfach positiven geladen Ions zytosolisch 185mmol/L und extrazellulär 18,5mmol/L. Etwa wie groß ist das Gleichgewichtspotenzial dieses Ions bei einer Temperatur von 37 Grad Celcius",
+      "options": [
+        "-120mv",
+        "-60mv",
+        "0mv",
+        "+60",
+        "+120"
+      ],
+      "correct_index": 1,
+      "correct_answer": "-60mv"
+    },
+    {
+      "id": "02_physiologie1_62",
+      "question": "Die äußere Zellmembran von Zellen ist semipermeabel, sie lässt also manche Stoffe gut durch sie hindurch diffundieren und andere weniger gut bis garnicht. Welche der folgenden Substanzen kann ohne weitere Transportprozesse oder spezalisierte Kanäle am besten passiv über die Membran diffundieren?",
+      "options": [
+        "Natriumion",
+        "Bikarbonat",
+        "Glucose",
+        "Sauerstoff",
+        "Aminosäure"
+      ],
+      "correct_index": 3,
+      "correct_answer": "Sauerstoff"
+    },
+    {
+      "id": "02_physiologie1_63",
+      "question": "Ein AV-Block 3. Grades ist ein lebensbedrohlicher Zustand. WElche der folgenden Aussagen trifft hier am ehsten zu",
+      "options": [
+        "Der Vorhoferregung folg nur in unregelmäßigen Abständen ein QRS-Komplex der Kammer mit dann aber gleich langen PQ-Intervall",
+        "Der weiterhin bestehende QRS Komplex findet mit einem Ersatzrhytmus der tertiären Schrittmacherzentren von etwa 30-40 Schläge pro Minute statt",
+        "Typisches Bild im EKG eines AV Block 3. Grades ist das AUsbleiben der T Welle",
+        "Generell ist die P-Welle stark verringer bis abwesend, da keine Vorhofkontraktion stattfindet",
+        "Die R-R- Intervalle liegen in Ruhe in aller Regel im Bereich von unter 800ms"
+      ],
+      "correct_index": 1,
+      "correct_answer": "Der weiterhin bestehende QRS Komplex findet mit einem Ersatzrhytmus der tertiären Schrittmacherzentren von etwa 30-40 Schläge pro Minute statt"
+    },
+    {
+      "id": "02_physiologie1_64",
+      "question": "Bei der primären Blutstillung spielt der von.Willebrand-Faktor eine wichtige Rolle. Welche der folgenden Aussagen zum vWF ist korrekt",
+      "options": [
+        "wird auch als Gerinnungsfaktor II bezeichnet",
+        "ist ein Protein, das den Gerinnungsfaktor VIII destabilisiert und dessen Abbaurate erhöhr",
+        "Der vWF ist bei Endothelläsionen das Bindeglied zwischen subendothelialer Matix und der Thrombozytenmembran",
+        "wird ovn reifen Erythrozyten synthetisiert",
+        "wirkt als Plasminogen AKtivator"
+      ],
+      "correct_index": 2,
+      "correct_answer": "Der vWF ist bei Endothelläsionen das Bindeglied zwischen subendothelialer Matix und der Thrombozytenmembran"
+    },
+    {
+      "id": "02_physiologie1_65",
+      "question": "In welchem Gebiet des ZNS befindet sich typischerweise das Atemzentrum",
+      "options": [
+        "Colliculus inferior",
+        "Cerebellum",
+        "Medulla oblongata",
+        "Tectum mesencephali",
+        "Thalamus ventralis"
+      ],
+      "correct_index": 2,
+      "correct_answer": "Medulla oblongata"
+    },
+    {
+      "id": "02_physiologie1_66",
+      "question": "Bei einer Patientin wird ein Blutbild angefertig. Welche BefundKonstellation der folgenden Werte spricht am ehsten für einen Folsäure-Mangel",
+      "options": [
+        "Erythrozytenanzahl vermindertHämoglobinwert erhöhtMCH verkleinertMCV verkleinert",
+        "Erythrozytenanzahl vermindertHämoglobinwert erniedrigtMCH verkleinert MCV verkleinert",
+        "Erythrozytenanzahl normalHämoglobinwert erniedrigt MCH vergrößertMCV vergrößert",
+        "Erythrozytenanzahl vermindertHämoglobinwert erniedrigtMCH erhöhtMCV erhöht",
+        "Erythrozytenanzahl erhöhtHämoglobinwert erniedrigtMCH vergrößertMCV vergrößert"
+      ],
+      "correct_index": 3,
+      "correct_answer": "Erythrozytenanzahl vermindertHämoglobinwert erniedrigtMCH erhöhtMCV erhöht"
+    },
+    {
+      "id": "02_physiologie1_67",
+      "question": "Die Erregungsleitungsgeschwindigkeit einer markhaltigen Nervenfaser ist im Allgemein größer, wenn",
+      "options": [
+        "der Grad der Myeliniserung gerringer ist",
+        "Die Membrankapazität im Bereich des Internodium größer ist",
+        "Die Temperatur niedriger ist",
+        "Die dichte der Spannungsabhängigen Natrium Kanäle in der Zellmembran der Ranvier Schnürringe kleiner ist",
+        "der Innendurchmesser des Axons größer ist"
+      ],
+      "correct_index": 4,
+      "correct_answer": "der Innendurchmesser des Axons größer ist"
+    },
+    {
+      "id": "02_physiologie1_68",
+      "question": "Welche der folgenden Aussagen trifft bezüglich der extrakardialen Regulation zu",
+      "options": [
+        "Der Parasympathikus wirkt an der Schrittmacherzelle über den Transmitter Adrenalin.",
+        "Der Sympathikus wirkt an der Schrittmacherzelle über den Transmitter Acetylcholin",
+        "An der Schritmmacherzelle wirkt der Parasympathikus durch die Bindung von Acetylcholin an β 1 Rezepotren",
+        "An der Schritmmacherzelle wirkt der Sympathkis durch die Bindung von Adrenalin an M2 Rezeptoren",
+        "An der Schrittmacherzelle wirken Sympathkis sowie Parasympathikus"
+      ],
+      "correct_index": 4,
+      "correct_answer": "An der Schrittmacherzelle wirken Sympathkis sowie Parasympathikus"
+    },
+    {
+      "id": "02_physiologie1_69",
+      "question": "Welche Aussage über die Veränderung der Hermuskephysiologe bei einer Herzinsuffizientz trifft am ehsten zu",
+      "options": [
+        "Durch die Konstante Sympathikusaktivierung kommt er zu einem vermehreten einbau von M2 Rezeptoren in der Herzmuskelzelle",
+        "Bei einer Herzinsuffizienz verändert sich die Zellmorphologie der Kardiomyozyten nicht, nur die Wandspannung des Herzens ist erhöht",
+        "Herzglykoside haben zentralnervös kein Einfluss auf den parasympathikus",
+        "Bei Herzinsuffizienz kommt es durch strukturelles und elektrische Remodeling zu irreversiblen Schäden in den Kardiomyozyten",
+        "Das Herz reagiert auf einer erhöhte Volumenbelastung mit einer verringerung der Wandspannung"
+      ],
+      "correct_index": 3,
+      "correct_answer": "Bei Herzinsuffizienz kommt es durch strukturelles und elektrische Remodeling zu irreversiblen Schäden in den Kardiomyozyten"
+    },
+    {
+      "id": "02_physiologie1_70",
+      "question": "Welche Aussage zur neuromuskulären Endplatte ist falsch",
+      "options": [
+        "Der Anstieg der intrazellulären Ca2 Konzentration über den RyR1 Rezeptor aus zellinterne Speichern triggert die Muskelkontraktion",
+        "Die mAChR Aktivierung sorgt für die Depolarisation der Muskelfasermembran und Konformationänderung der DHPR Rezeptoren die durch die mechanische Koppluung an RyR1 Rezeptor Kalzium in der Muskelfaser freisetzen",
+        "Die mAChR Aktivierung sorgt für die Depolarisation der Muskelfasermembran und Konformationsänderung des RyR1 Rezepotren die durch die mechanische Kopplung an DHPR Rezepotr Kalium in die Muskelfaser freisetzen",
+        "Die Repolarisation der Muskelfasermebran erfolgt über Kalium und Chlorid Kanäle",
+        "Die Muskelerschlaffung wird hauptsächlich über den Kalzium Rücktransport mit Hilfe der SERCA an das Sakroplasmatische Retikulum erreicht"
+      ],
+      "correct_index": 2,
+      "correct_answer": "Die mAChR Aktivierung sorgt für die Depolarisation der Muskelfasermembran und Konformationsänderung des RyR1 Rezepotren die durch die mechanische Kopplung an DHPR Rezepotr Kalium in die Muskelfaser freisetzen"
+    },
+    {
+      "id": "02_physiologie1_71",
+      "question": "Künstliceh Beatmung erfolgt unter anderem mit Überdruck, was je nach Notwendigkeit einen mehr oder weniger erhöhten PEEP nach sich ziehtWelche Nebenwirkung dieser küstlichen Beatmung ist korrekt?",
+      "options": [
+        "Abfall des intrathorakeln Drucks",
+        "Behinderung des venösen Abflusses im Gehirn und eine Hirndruckanstieg",
+        "Erhöhte Persion in der Niere",
+        "Links-Herz-Belastung",
+        "Überdehnung von Arealen mit erniedrigter Compliance"
+      ],
+      "correct_index": 1,
+      "correct_answer": "Behinderung des venösen Abflusses im Gehirn und eine Hirndruckanstieg"
+    },
+    {
+      "id": "02_physiologie1_72",
+      "question": "Inspiration und Exspiration werden durch Veränderungen des Intrapleuralen Drucks (Ppleu) und des intrapulmonalen Drucks (Ppul) gesteuert. Diese Drücke werden über die Atemmuskulatur reguliert. Dieses Zusammenspiel wird als Atemmechanik bezeichnet. Welche aussage trift zu ?",
+      "options": [
+        "Während der inspiration wird der intrpulmonale druck positiver",
+        "während der expiration kontrahiert das zwerchfell",
+        "bei Ruheatmung wird der intrapleurale Druck während der inspiration pos.",
+        "bei Ruheatmung wird der intrapulmonale Druck während der expiration pos.",
+        "die M. intercostales externi dienen als Hilfsmuskel für die Inspiration"
+      ],
+      "correct_index": 4,
+      "correct_answer": "die M. intercostales externi dienen als Hilfsmuskel für die Inspiration"
+    },
+    {
+      "id": "02_physiologie1_73",
+      "question": "Ein Schlag auf den Caroticussinus aktiviert die Pressorezeptoren, was zur bewusstlosikeit führen kann. Welcher der folgenen Mechanismen erklärt diese Reaktion des Körpers",
+      "options": [
+        "Aktivierung von efferenten C-Fasern in der Hinterwurzel der Thorakalen segmente",
+        "Hemmung der aktivität von parasympatischen Neuronen im Ncl. ambiguus in der Medulla oblongata",
+        "Aktivierung von parasympatischen efferenzen aus dem Ncl. ambiguus und hemmung der sympathischen Efferenzen",
+        "Aktivierung von α 1 rezeptoren in den Blutgefäßen",
+        "Verlagerung von mehr als 800 ml Blut vom Brustkorb in die unteren Extremitäten"
+      ],
+      "correct_index": 2,
+      "correct_answer": "Aktivierung von parasympatischen efferenzen aus dem Ncl. ambiguus und hemmung der sympathischen Efferenzen"
+    },
+    {
+      "id": "02_physiologie1_74",
+      "question": "erys sind für den transport von atemgasen zuständig. welche aussage stimmt am ehesten ?",
+      "options": [
+        "nach der Bindung von sauerstoff verändert sich die wertigkeit vom Eisen von fe2+ zu fe3+ 8 %",
+        "das methhämoglobin wird durch die bindung vom Sauerstoff an Hämoglobin im t-konformationszustand charakterisiert 8 %",
+        "als oxygenierung wird die Bindung vom Sauerstoff an Hämoglobin bezeichnet 73 %",
+        "die Hüffner-Zahl beschreibt ie Diffusionskapaziät des Sauerstoffs durch die Alveolarmembran 3 %",
+        "ein Hb-Wert von 15 g/dl bei einem erwachsenen deutet auf das vorliegen einer Eisenmangelanämie hin 4 %"
+      ],
+      "correct_index": 2,
+      "correct_answer": "als oxygenierung wird die Bindung vom Sauerstoff an Hämoglobin bezeichnet 73 %"
+    },
+    {
+      "id": "02_physiologie1_75",
+      "question": "welche aussage zu Laktat-Leistungs-Diagnostik ist am ehesten richtig ?",
+      "options": [
+        "Laktat ensteht im verlauf der aeroben Energiebereitstellung",
+        "die Laktatschwelle bei 4 mmol/l laktat signalisiert die plötzlich stattfindende Umstellung der Energiebereitstellung von Kohlenhydraten zu Fetten",
+        "Durch die Laktat schwellen ist eine Abschätzung des aero-anaeroben Übergangsbereich möglich",
+        "langandauernde ermüdende Belastung von mehreren Stunden - wie z.B. ein Fahrradausflug oder MArathonlauf- gehe mit Laktatkonzentration von 20 mmol/l oder mehr einher",
+        "Laktat kann auch bei völliger entleerung der muskulären und hepatischen Glykogenspeicher in hoher konzetration im blut nachgewiesen werden (z.B. mehr als 15 mmol/l)"
+      ],
+      "correct_index": 2,
+      "correct_answer": "Durch die Laktat schwellen ist eine Abschätzung des aero-anaeroben Übergangsbereich möglich"
+    },
+    {
+      "id": "02_physiologie1_76",
+      "question": "metaboliten wie Protonen oder laktat fallen bei muskulärer arbeit an. Welche aussage zu wirkung dieser metaboliten trifft am ehesten zu?",
+      "options": [
+        "Solche metaboliten rufen eine lokale Vasokonstriktion hervor",
+        "Diese Metaboliten leiten einen brechreflex ein",
+        "Diese Metaboliten hemmen lokal die Ausschüttung von ACh aus nervenendigungen",
+        "Diese Metaboliten rufen lokae Vasodilatation hervor",
+        "Diese Metaboliten haben keinen einfluss auf die Blutgefäße"
+      ],
+      "correct_index": 3,
+      "correct_answer": "Diese Metaboliten rufen lokae Vasodilatation hervor"
+    },
+    {
+      "id": "02_physiologie1_77",
+      "question": "Bei der Orthostase kommt es durch vegetative kreislaufregulation zu charakteristischen Veränderungen. welche der folgenden Veränderungen beim hinstelle im Vergleich zum Liegen sind akut am ehesten zu erwarten ?",
+      "options": [
+        "erhöhtes Schlagvolumen",
+        "erhöhte Herzfrequenz",
+        "verringerte totaler periphere widerstand",
+        "erhöhtes Herzzeitvolumen",
+        "erhöhte Vorlast"
+      ],
+      "correct_index": 1,
+      "correct_answer": "erhöhte Herzfrequenz"
+    }
+  ]
+}

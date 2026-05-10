@@ -179,6 +179,38 @@ const subjects = [
         "bg-white/4 text-slate-400 border border-white/7 hover:bg-white/7 hover:text-white",
     },
   },
+  {
+    id: "physiologie",
+    name: "Physiologie",
+    description:
+      "Herz-Kreislauf, Atmung, Niere, Nervensystem und Sinnesorgane – Körperfunktionen im Überblick.",
+    quizCount: 19,
+    altklausurenCount: 0,
+    icon: (
+      <svg
+        className="h-6 w-6"
+        fill="none"
+        viewBox="0 0 24 24"
+        stroke="currentColor"
+      >
+        <path
+          strokeLinecap="round"
+          strokeLinejoin="round"
+          strokeWidth={1.5}
+          d="M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z"
+        />
+      </svg>
+    ),
+    color: {
+      text: "text-rose-400",
+      bg: "bg-rose-500/10",
+      border: "border-rose-500/25",
+      quizBtn:
+        "bg-rose-500/15 text-rose-300 border border-rose-500/25 hover:bg-rose-500/25",
+      altBtn:
+        "bg-white/4 text-slate-400 border border-white/7 hover:bg-white/7 hover:text-white",
+    },
+  },
 ];
 
 export function generateStaticParams() {

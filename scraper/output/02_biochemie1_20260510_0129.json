@@ -1,0 +1,354 @@
+{
+  "meta": {
+    "fach": "Biochemie 1",
+    "semester": "02",
+    "scraped_at": "2026-05-10T01:29:57.272962",
+    "total": 26,
+    "skipped": {
+      "skipped_images": 0,
+      "skipped_unclear": 0,
+      "skipped_no_options": 0,
+      "skipped_no_answer": 7
+    }
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "Bei welchem Prozessierungsschritt ist der mRNA ist 7-Methyl-Guanosin involviert ?",
+      "options": [
+        "Option 1",
+        "Verbindung der Exonsequenzen beim splicen",
+        "Option 3",
+        "Bildung der Lariatstruktur beim Splicing",
+        "Poli-Adenylierung des 3'Endes"
+      ],
+      "correct_index": 2,
+      "correct_answer": "Option 3"
+    },
+    {
+      "id": 2,
+      "question": "In welcher Reihenfolge laufen die Reaktionen der intrazellulären Phase der Kollagenbiosynthese ab?\n\n1. Hydroxilierung und Glykosylierung\n2. cotranslationale Einschleusung ins ER\n3. Abspalten des Signalpeptids\n4. Assemblierung und Sekretion von Prokollagentripelhelices",
+      "options": [
+        "3, 2, 1, 4",
+        "2, 1, 3, 4",
+        "2, 3, 1, 4",
+        "2, 3, 4, 1",
+        "3, 2, 4, 1"
+      ],
+      "correct_index": 2,
+      "correct_answer": "2, 3, 1, 4"
+    },
+    {
+      "id": 3,
+      "question": "Welche Aussage zu Coenzymen trifft am ehesten nicht zu?",
+      "options": [
+        "Coenzyme sind kleine organische Moleküle",
+        "Coenzyme leiten sich oft von Vitaminen ab",
+        "Coenzyme werden während der Reaktion oft chemisch verändert und müssen anschließend regeneriert werden",
+        "Coenzyme kann man in prosthetische Gruppen und Cosubstrate unterteilen",
+        "Coenzyme sind ein Teil des Apoenzyms"
+      ],
+      "correct_index": 4,
+      "correct_answer": "Coenzyme sind ein Teil des Apoenzyms"
+    },
+    {
+      "id": 4,
+      "question": "An welcher ribosomalen tRNA-Bindestelle erfolgt die initiale komplementäre Basenpaarung zwischen Codon und Anticodon?",
+      "options": [
+        "An der Exit-Stelle (E-Stelle)",
+        "An der Ribozym-Stelle (R-Stelle)",
+        "An der Akzeptor-Stelle (A-Stelle)",
+        "An der Transfer-Stelle (T-Stelle)",
+        "An der Peptidyl-Stelle (P-Stelle)"
+      ],
+      "correct_index": 2,
+      "correct_answer": "An der Akzeptor-Stelle (A-Stelle)"
+    },
+    {
+      "id": 5,
+      "question": "Um welche beiden Basen handelt es sich in den Abbildungen?",
+      "options": [
+        "Uracil und Guanin",
+        "Thymin und Adenin",
+        "Cytosin und Adenin",
+        "Cytosin und Guanin",
+        "Thymin und Guanin"
+      ],
+      "correct_index": 3,
+      "correct_answer": "Cytosin und Guanin"
+    },
+    {
+      "id": 6,
+      "question": "Welche Aufgabe hat die DNA-Polymerase ⍺ bei der Replikation, die die DNA-Polymerase δ nicht hat?",
+      "options": [
+        "Die Ligation von Okazaki-Fragmenten",
+        "Die Abspaltung von Nukleotiden durch eine 3'-5'-Exonukleaseaktivität",
+        "Die Synthese von RNA-Primern",
+        "Die Verlängerung des 3'-Endes",
+        "Die Abspaltung von Nukleotiden durch eine 5'-3'-Exonukleaseaktivität"
+      ],
+      "correct_index": 2,
+      "correct_answer": "Die Synthese von RNA-Primern"
+    },
+    {
+      "id": 7,
+      "question": "Die Lactatdehydrogenase (LDH) wandelt Lactat und Pyruvat ineinander um. Zu welcher Enzymklasse gehört dieses Enzym?",
+      "options": [
+        "Option 1",
+        "Option 2",
+        "Option 3",
+        "Option 4",
+        "Option 5"
+      ],
+      "correct_index": 3,
+      "correct_answer": "Option 4"
+    },
+    {
+      "id": 8,
+      "question": "Patienten, die an Osteogenesis imperfecta (\"Glasknochenkrankheit\") leiden, weisen häufig Punktmutationen in den Genen für die Ketten des Typ-I-Kollagens auf, die ein Codon der Aminosäuren betreffen, die normalereise am häufigsten in reifem fibrillärem Typ-I-Kollagen vertreten ist. \nUm welche Aminosäure handelt es sich?",
+      "options": [
+        "Option 1",
+        "Option 2",
+        "Option 3",
+        "Option 4",
+        "Option 5"
+      ],
+      "correct_index": 4,
+      "correct_answer": "Option 5"
+    },
+    {
+      "id": 9,
+      "question": "Welche Aussage zu Isoenzymen ist richtig?",
+      "options": [
+        "Es handelt sich immer um oligomere Proteine mit mehreren identischen Untereinheiten",
+        "Sie haben denselben isoelektrischen Punkt (IP)",
+        "Sie können unterschiedliche Affinitäten zu ihren Substraten haben.",
+        "Sie haben identische Molekulargewichte",
+        "Sie sind durch reversible Phosphorylierung/ Dephosphorylierung entstehende Formen desselben Proteins."
+      ],
+      "correct_index": 2,
+      "correct_answer": "Sie können unterschiedliche Affinitäten zu ihren Substraten haben."
+    },
+    {
+      "id": 10,
+      "question": "Codierende BEreiche der DNA werden ____ genannt, nicht-codierende Bereiche heissen ____. Während der RNA-Prozessierung werden sie entfernt, dieser Vorgang heisst ____.",
+      "options": [
+        "Exons, Introns, Transkription",
+        "Exons, Introns, Spleißen",
+        "Introns, Exons, Spleißen",
+        "Introns, Exons, Transkription",
+        "Exons, Introns, Replikation"
+      ],
+      "correct_index": 1,
+      "correct_answer": "Exons, Introns, Spleißen"
+    },
+    {
+      "id": 11,
+      "question": "Für welchen Schritt der Kollagen-Synthese ist Vitamin C erforderlich?",
+      "options": [
+        "Bildung von Disulfid-Brücken bei der Kollagen-Bildung",
+        "Oxidative Desaminierung für die Quervernetzung von unlöslichen Kollagenfibrillen",
+        "Hydroxylierung der Prolinreste von der Prolylhydroxylase",
+        "Ausschleusung von Prokollagen in die extrazelluläre Matrix",
+        "Zusammenlagerung von Kollagen-Fibrillen zu stabilen Fibrillen"
+      ],
+      "correct_index": 2,
+      "correct_answer": "Hydroxylierung der Prolinreste von der Prolylhydroxylase"
+    },
+    {
+      "id": 12,
+      "question": "Welche RNA-Sequenz wird durch die RNA-Polymerase synthetisiert, wenn der codierende Strang die folgende Sequenz hat?\n5'-TGATACGTAGCTAGCTC-3'",
+      "options": [
+        "Option 1",
+        "Option 2",
+        "Option 3",
+        "Option 4",
+        "Option 5"
+      ],
+      "correct_index": 4,
+      "correct_answer": "Option 5"
+    },
+    {
+      "id": 13,
+      "question": "Die folgende Abbidlung zeigt das Ergebnis eines Vaterschaftstests. Es wurden vier geeignete Allele per PCR aplifiziert. Gezeigt sind die Banden einer Agarose-Gelelektrophorese nach Auftrennung der PCR-Produkte. Welcher Kandidat ist am wahrscheinlichsten der Vater des Kindes?",
+      "options": [
+        "Kandidat 1",
+        "Kandidat 2",
+        "Kandidat 3",
+        "Kandidat 4",
+        "keiner der untersuchten Kandidaten"
+      ],
+      "correct_index": 3,
+      "correct_answer": "Kandidat 4"
+    },
+    {
+      "id": 14,
+      "question": "Um welche proteinogene Aminosäure handelt es sich bei dem gezeigten Molekül?",
+      "options": [
+        "Option 1",
+        "Option 2",
+        "Option 3",
+        "Option 4",
+        "Option 5"
+      ],
+      "correct_index": 4,
+      "correct_answer": "Option 5"
+    },
+    {
+      "id": 15,
+      "question": "Welches der folgenden Moleküle enthält Fructose als Bestandteil?",
+      "options": [
+        "Option 1",
+        "Option 2",
+        "Option 3",
+        "Option 4",
+        "Option 5"
+      ],
+      "correct_index": 4,
+      "correct_answer": "Option 5"
+    },
+    {
+      "id": 16,
+      "question": "Es wurde die Kinetik eines Enzyms mit und ohne Inhibitor gemessen und in dem folgenden Lineweaver-Burk-Diagramm dargestellt. Welche Aussage trifft zu?",
+      "options": [
+        "KM des Enzyms mit Inhinitpr isz größer als KM des Enzyms ohne Inhibitor",
+        "Vmax des Enzyms mit Inhibitor ist größer als Vmax des Enzyms ohne Inhibitor",
+        "Der Inhibitor wirkt kompetitiv",
+        "Der Inhibitor wirkt nicht-kompetitiv",
+        "Der Inhibitor wirkt unkompetitiv"
+      ],
+      "correct_index": 4,
+      "correct_answer": "Der Inhibitor wirkt unkompetitiv"
+    },
+    {
+      "id": 17,
+      "question": "Der Glucose Transporter 2 (GLUT2I wrid von den Zellen der Leber, der Niere und des Dünndarms exprimiert udn ist neben der Glucose auch für den Transport anderer Zucker verantwortlich. Zu welchem Zucker hat GLUT2 die höchste Affinität gemäß der folgenden KM-Werte?\n\n(Zucker - KM)\nGlukose - 17 mM\nGalaktose - 92 mM\nMannose - 125 mM\nFruktose - 76 mM\nGlukosamin - 0,8 mM",
+      "options": [
+        "Option 1",
+        "Option 2",
+        "Option 3",
+        "Option 4",
+        "Option 5"
+      ],
+      "correct_index": 4,
+      "correct_answer": "Option 5"
+    },
+    {
+      "id": 18,
+      "question": "Welche Aussage zum folgenden Molekül trifft zu?",
+      "options": [
+        "Das ist eine gesättigte Fettsäure.",
+        "Das ist eine α-Linolensäure",
+        "Das ist eine ω-3 Fettsäure",
+        "Das ist eine Linolsäure",
+        "Das ist eine nicht-essentielle Fettsäure."
+      ],
+      "correct_index": 3,
+      "correct_answer": "Das ist eine Linolsäure"
+    },
+    {
+      "id": 19,
+      "question": "Bei der Klonierung von eukaryotischen Genen für die Expression in prokaryotischen Organismen (z.B. Expression menschlichen Insulins in Bakterien) wird das Gen zunächst mittels einer PCR amplifiziert. Als Vorlage (Template) dient bei dieser Reaktion zumeist eine cDNA des Gens und nicht isolierte genomische DNA. Was ist am ehesten der Grund für diesen Umstand?",
+      "options": [
+        "Genomische DNA ist an Histone gebunden, welche eine PCR-Amplifikation verhindern.",
+        "Genomische DNA enthält single nucleotide polymorphisms (SNPs), welche zu Genmutationen im fertigen Genkonstrukt führen",
+        "Genomische DNA hat, im Vergleich zur cDNA, eine zu hohe Schmelztemperatur für die PCR",
+        "Genomische DNA enthält, im Gegensatz zu cDNA, Introns, welche die Prokaryoten nicht durch Spleißen entfernen können.",
+        "Genomische DNa enthält zu viele Schnittstellen für Restriktionsendonukleasen, die während der Klonierung zu Problemen führen."
+      ],
+      "correct_index": 3,
+      "correct_answer": "Genomische DNA enthält, im Gegensatz zu cDNA, Introns, welche die Prokaryoten nicht durch Spleißen entfernen können."
+    },
+    {
+      "id": 20,
+      "question": "Um welche Verbindung handelt es sich in der folgenden Abbildung?",
+      "options": [
+        "Option 1",
+        "Option 2",
+        "Option 3",
+        "Option 4",
+        "Option 5"
+      ],
+      "correct_index": 1,
+      "correct_answer": "Option 2"
+    },
+    {
+      "id": 21,
+      "question": "Sie verdünnen 200μl ihrer DNA Probe mit 800μl H2O und messen anschliessend einen Extinktionswert von 1,5- Bestimmen Sie die DNA-Konzentration (cDNA) in Ihrer Probe!",
+      "options": [
+        "300 μl/ml",
+        "325 μl/ml",
+        "350 μl/ml",
+        "375 μl/ml",
+        "400 μl/ml"
+      ],
+      "correct_index": 3,
+      "correct_answer": "375 μl/ml"
+    },
+    {
+      "id": 22,
+      "question": "In welcher Reihenfolge eluieren die Aminosäuren Glycin, Aspartat und Arginin, wenn sie mit einem Kationenaustauscher bei pH7 aufgetrennt werden?",
+      "options": [
+        "Glycin, Aspartat, Arginin",
+        "Aspartat, Glycin, Arginin",
+        "Arginin, Aspartat, Glycin",
+        "Arginin, Glycin, Aspartat",
+        "Glycin, Arginin, Aspartat"
+      ],
+      "correct_index": 1,
+      "correct_answer": "Aspartat, Glycin, Arginin"
+    },
+    {
+      "id": 23,
+      "question": "Die Michaelis-Menten-Gleichung beschreibt die Geschwindigkeit enzymkatalysierter Reaktionen in Abhängigkeit von der Substratkonzentration. Wie groß muss die Substratkonzentration sein, um 90% Maximalgeschwindigkeit einer enzymatischen Reaktion zu erreichen?",
+      "options": [
+        "gleich KM",
+        "4,5 KM",
+        "9 KM",
+        "18 KM",
+        "90 KM"
+      ],
+      "correct_index": 2,
+      "correct_answer": "9 KM"
+    },
+    {
+      "id": 24,
+      "question": "Durch welches Enzym wird die Transkription der 28S-rRNA am ehesten erfolgen?",
+      "options": [
+        "Die DNA-Polymerase-α",
+        "Die RNA-Polymerase-III",
+        "Die RNA-Polymerase-I",
+        "Die RNA-Polymerase-II",
+        "Die Oligosaccharyltransferase"
+      ],
+      "correct_index": 2,
+      "correct_answer": "Die RNA-Polymerase-I"
+    },
+    {
+      "id": 25,
+      "question": "Welche Aussage zur Telomerase trifft am ehesten zu?",
+      "options": [
+        "Sie ist über die Telomer-Methylierung an der Epigenetik beteiligt",
+        "Sie ist in Keimzellen aktiv und ist eine RNa-abhängige DNA-Polymerase",
+        "Sie schützt die Telomere durch Anhängen von DNA-Primern",
+        "Sie ist in somatischen Zellen aktiv und ist eine DNA-abhängige DNA-Polymerase",
+        "Sie verkürzt die Telomere bei jeder Replikationsrunde in somatischen Zellen."
+      ],
+      "correct_index": 1,
+      "correct_answer": "Sie ist in Keimzellen aktiv und ist eine RNa-abhängige DNA-Polymerase"
+    },
+    {
+      "id": 26,
+      "question": "Welches Codon auf der mRNA wird von der abgebildeten tRNA gebunden?",
+      "options": [
+        "Option 1",
+        "Option 2",
+        "Option 3",
+        "Option 4",
+        "Option 5"
+      ],
+      "correct_index": 4,
+      "correct_answer": "Option 5"
+    }
+  ]
+}

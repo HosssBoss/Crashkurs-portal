@@ -1,0 +1,354 @@
+{
+  "meta": {
+    "fach": "Physiologie 1",
+    "semester": "02",
+    "scraped_at": "2026-05-10T02:19:59.478618",
+    "total": 26,
+    "skipped": {
+      "skipped_images": 0,
+      "skipped_unclear": 0,
+      "skipped_no_options": 0,
+      "skipped_no_answer": 14
+    }
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "Die Effekte des Herzglykosids Digitoxin beruht auf der spezifischen Hemmung der Na+/K+ -ATPase. Welcher der folgenden Effekte wäre somit als unmittelbare Folge am ehesten zu erwarten?",
+      "options": [
+        "verringerter Einstrom von Calcium in die Zelle",
+        "Anstieg der extrazellulären Natrium-Konzentration",
+        "Absinken der extrazellulären Kalium-Konzentraion",
+        "Anstieg der intrazellulären Kalium-Konzentration",
+        "Anstieg der intrazellulären Natrium-Konzentration"
+      ],
+      "correct_index": 4,
+      "correct_answer": "Anstieg der intrazellulären Natrium-Konzentration"
+    },
+    {
+      "id": 2,
+      "question": "Welche der folgenden Beschreibungen des venenpuls trifft am ehesten zu?",
+      "options": [
+        "Zeitpunkt 1 entspricht der Systole",
+        "Zeitpunkt 2 entspricht der Kontraktion der Ventrikel",
+        "Zwischen Zeitpunkt 2 und 3 findet die Diastole statt",
+        "Zwischen Zeitpunkt 3 und 4 findet die Vorhofkontraktion statt",
+        "Zwischen Zeitpunkt 4 und 5 findet die Öffnung der Segeklappen-Taschen statt und somit die Entleerung der Vorhöfe"
+      ],
+      "correct_index": 4,
+      "correct_answer": "Zwischen Zeitpunkt 4 und 5 findet die Öffnung der Segeklappen-Taschen statt und somit die Entleerung der Vorhöfe"
+    },
+    {
+      "id": 3,
+      "question": "Welche der Aussagen über den Hamburger-Shift trifft am ehesten zu?",
+      "options": [
+        "um die Elektroneutralität der Erythrozyten zu wahren, werden HCO3- -Ionen durch einen Na+/HCO3- -Antiporter im Austausch gegen Na+ -Ionen durch die Zellmembran transportiert",
+        "um die Elektroneutralität der Erythrozyten zu wahren, werden HCO3- -Ionen durch einen Cl-/HCO3- -Antiporter im Austausch gegen Cl- -Ionen durch die zellmembran transportiert",
+        "die spontane Haydratisierung von CO2 zu kohlensäure (H2CO3) verläuft im Plasma besonders schnell, was den Hamburger-Shift in Erythrozyten begünstigt",
+        "die Erythrozyten nutzen für die Bildung von Kohlensäure (H2CO3) aus CO2 das Enzym Carboxypeptidase A",
+        "die Erythrozyten nutzen für die Bildung von Kohlensäure (H2CO3) aus CO2 das Enzym Glykosyltransferase"
+      ],
+      "correct_index": 2,
+      "correct_answer": "die spontane Haydratisierung von CO2 zu kohlensäure (H2CO3) verläuft im Plasma besonders schnell, was den Hamburger-Shift in Erythrozyten begünstigt"
+    },
+    {
+      "id": 4,
+      "question": "In der folgenden Abbildung ist das Aktionspotential einer Arbeitsmyokardzelle des Herzens dargestellt. Welche Ionenkanäle tragen am meisten zur Plateauphase (Phase 2 in der Abbildung) des Aktionspotentials in den Arbeitszellen des Myokards bei?",
+      "options": [
+        "Die Öffnung von Na+-Kanälen",
+        "Die Öffnung von L-Typ Calciumkanälen",
+        "Die Öffnung von HCN-Kanälen",
+        "Die Schließung von KIR-Kanälen",
+        "Die Freisetzung von Ca2+ aus dem sarkoplasmatischen Retikulum durch RyR2-Kanäle"
+      ],
+      "correct_index": 1,
+      "correct_answer": "Die Öffnung von L-Typ Calciumkanälen"
+    },
+    {
+      "id": 5,
+      "question": "Der Windkesseleffekt ist ein zentraler Mechanismus zur Blutflussregulation in den Körperkreislauf hinein. Welche der folgenden Aussagen zur Funktionsweise dieses Mechanismus ist am ehesten korrekt?",
+      "options": [
+        "Durch die hohe Compliance dehnt sich die Aorta während des frühdiastolischen Rückstroms und nimmt dabei ca. 50% des ausgeworfenen Blutes auf.",
+        "Durch Abklemmen distaler Anteile der Aorta stauen sich ca. 50% des Auswurfvolumens aus.",
+        "Der kontinuierliche Blutfluss während der Diastole wird maßgeblich durch aktive Muskelarbeit in der Aortenwand erzeugt.",
+        "Durch die hohe Compliance dehnt sich die Aorta während der Auswurfphase des Herzzyklus und nimmt dabei ca. 50% des Blutes auf.",
+        "Abzweigungen der medialen Aorta versorgen die Herzkranzgefäße während der Systole mit Blut"
+      ],
+      "correct_index": 3,
+      "correct_answer": "Durch die hohe Compliance dehnt sich die Aorta während der Auswurfphase des Herzzyklus und nimmt dabei ca. 50% des Blutes auf."
+    },
+    {
+      "id": 6,
+      "question": "Die äußere Zellmembran von Zellen ist semipermeabel, sie lässt also manche Stoffe gut durch sie hindurch diffundieren und andere weniger gut bis gar nicht. Welche der folgenden Substanzen kann ohne weiter Transportprozesse oder spezialisierte Kanäle am besten passiv über die Membran diffundieren?",
+      "options": [
+        "Natriumionen",
+        "Bikarbonat (HCO3-)",
+        "Glucose",
+        "Sauerstoff",
+        "Keine der vorherigen Substanzen ist ohne Transportprozesse membrangängig"
+      ],
+      "correct_index": 3,
+      "correct_answer": "Sauerstoff"
+    },
+    {
+      "id": 7,
+      "question": "Einem 55-jährigen Patienten werden aufgrund von Bluthochdruck ß-Blocker verschrieben. Die Blutdrucksenkung wird im wesentlichen durch die Senkung der Auswurfleistung des Herzens erreicht. Die Konzentration welches Second messenger wird durch diese Behandlung somit typischerweise reduziert?",
+      "options": [
+        "Diacylglycerol",
+        "zyklisches AMP",
+        "Inositol-1,4,5-triphosphat",
+        "ATP",
+        "GMP"
+      ],
+      "correct_index": 1,
+      "correct_answer": "zyklisches AMP"
+    },
+    {
+      "id": 8,
+      "question": "Mittels der indirekten Kalorimetrie messen sie den Energieumsatz eines Probanden. Der Patient leistet eine körperliche Belastung auf einem Ergometer für 3 min. Anhand der Berechnung des produzierten CO2 und des verbrauchten O2 erhalten Sie einen respiratorischen Quotienten von 1,0. Welches Substrat oder Substrate dienen hier der Energiebereitstellung?",
+      "options": [
+        "Mischkost",
+        "Fette",
+        "Kohlenhydrate",
+        "Proteine",
+        "Fette und Proteine"
+      ],
+      "correct_index": 2,
+      "correct_answer": "Kohlenhydrate"
+    },
+    {
+      "id": 9,
+      "question": "Ein AV-Block 3. Grades ist ein lebensbedrohlicher Zusatnd. Welche der folgenden Aussagen trifft hier am ehesten zu?",
+      "options": [
+        "Der weiterhin bestehende QRS-Komplex findet mit einem Ersatzrythmus der tertiären Schrittmacherzentren von etwa 60-80 Schlägen pro Minute statt.",
+        "Typische Bild im EKG eines AV-Block 3. Grades ist das Ausbleiben der T-Welle nach dem QRS-Komplex.",
+        "Generell ist die P-Welle stark verringert bis abwesend, da keine Vorhofkontraktion stattfindet.",
+        "Die R-R-Intervalle liegen in Ruhe in aller Regel im Bereich von unter 800ms.",
+        "Die Vorhoferregung (P-Welle) erfolgt ohne zeitliche Korrelation mit der Kammerregung (QRS-Komplex)."
+      ],
+      "correct_index": 4,
+      "correct_answer": "Die Vorhoferregung (P-Welle) erfolgt ohne zeitliche Korrelation mit der Kammerregung (QRS-Komplex)."
+    },
+    {
+      "id": 10,
+      "question": "Weclhe Aussagen zur Fortleitung von Aktionspotentialen über Nervenfasern trifft typischerweise zu? Die Geschwindigkeit der Erregungsfortleitung",
+      "options": [
+        "steigt mit zunehmend größerer elektrischer Reizstärke.",
+        "sinkt mit größerem Axon-Querschnitt.",
+        "steigt mit zunehmnder Entfernung vom Axonhügel.",
+        "ist im Wesentlichen unabhängig von der Temperatur.",
+        "ist bei kontinuierlicher Leitung niedriger als bei saltatorischer Fortleitung."
+      ],
+      "correct_index": 4,
+      "correct_answer": "ist bei kontinuierlicher Leitung niedriger als bei saltatorischer Fortleitung."
+    },
+    {
+      "id": 11,
+      "question": "In welcher Reihenfolge laufen die ATP-liefernden prozesse im Muskel für gewöhnlich ab (schnelle bis langsame ATP-Gewinnung)?",
+      "options": [
+        "Fettsäureabbau - anaerober Glukoseabbau - aerober Glukoseabbau - ATP-Speicher - Kreatinphosphat",
+        "aerober Glukoseabbau - Fettsäureabbau - anaerober Glukoseabbau - ATP-Speicher - Kreatinphosphat",
+        "ATP-Speicher - Kreatinphosphat - anaerober Glukoseabbau - aerober Glukoseabbau - Fettsäureabbau",
+        "anaerober Glukoseabbau - aerober Glukoseabbau - ATP-Speicher - Kreatinphosphat - Fettsäureabbau",
+        "ATP-Speicher - anaerber Glukoseabbau - aerober Glukoseabbau - Kreatinphosphat - Fettsäureabbau"
+      ],
+      "correct_index": 2,
+      "correct_answer": "ATP-Speicher - Kreatinphosphat - anaerober Glukoseabbau - aerober Glukoseabbau - Fettsäureabbau"
+    },
+    {
+      "id": 12,
+      "question": "Welche der folgenden Aussagen ist am ehesten richtig? Der Druck in den kleineren Alveolen ist im Vergleich zu dem in den größeren Alveolen beim Gesunden typischerweise",
+      "options": [
+        "Kleiner, da der Radius kleiner ist",
+        "Kleiner, da der negative intrathorakale Druck entgegenwirkt",
+        "Gleichgroß, da der negative intrathorakale Druck entgegenwirkt",
+        "2-fach größer gemäß dem Gesetz von Laplace",
+        "Ungefähr gleichgroß, da das Surfectant die Oberflächenspannung der kleinen Alveolen anpasst"
+      ],
+      "correct_index": 3,
+      "correct_answer": "2-fach größer gemäß dem Gesetz von Laplace"
+    },
+    {
+      "id": 13,
+      "question": "Der Gefäßwiderstand trägt im Niederdrucksystem nur mäßig zum Blutdruck bei. Dies lässt sich am ehesten zurückzuführen auf:",
+      "options": [
+        "den Gefäßquerschnitt",
+        "die Compliance der Venen",
+        "den venösen Rückstrom zum Herzen",
+        "die Körperlage",
+        "prälapilläre Sphinkteren"
+      ],
+      "correct_index": 1,
+      "correct_answer": "die Compliance der Venen"
+    },
+    {
+      "id": 14,
+      "question": "Welche Aussagen über den Effekt von Vitamin-K auf die Hämostase ist am ehesten korrekt?",
+      "options": [
+        "Bei Vitamin-K-Mangel wird nicht ausreichend Fibrinogen produziert",
+        "Vitamin-K ist erforderlich für die Bildung und Aktivierung von den Gerinnungsfaktoren II, VII, IX, und X in der Leber",
+        "Bei Vitamin-K-Mangel kann die primäre Hämostase nicht korrekt ablaufen",
+        "Vitamin-K ist erfoderlich für die Bildung und Aktivierung der Gerinnungsfaktoren III, IV, V, IV in der Leber",
+        "Vitamin-K verhindert die Bindung von Gerinnungsfaktoren über Calcium-Ionen an der Oberfläche der Thrombozyten"
+      ],
+      "correct_index": 1,
+      "correct_answer": "Vitamin-K ist erforderlich für die Bildung und Aktivierung von den Gerinnungsfaktoren II, VII, IX, und X in der Leber"
+    },
+    {
+      "id": 15,
+      "question": "Das Pfeilgift Curare hat als kompetitiver Antagonist eines bestimmten Neurotransmitters Einfluss auf das Muskelaktionspotential. An welchen Kanal der neuromuskulären Endplatte wirkt es?",
+      "options": [
+        "Spannungsabhängiger Natriumkanal",
+        "Ligandenabhängiger Kationenkanal",
+        "Spannungsabhängiger Kaliumkanal",
+        "Spannungsabhängiger Chloridkanal",
+        "Spannungsabhängiger Kalziumkanal"
+      ],
+      "correct_index": 1,
+      "correct_answer": "Ligandenabhängiger Kationenkanal"
+    },
+    {
+      "id": 16,
+      "question": "Was besagt die Hüfner-Zahl?",
+      "options": [
+        "Die Hüfner-Zahl beschreibt den O2-Gehalt des desoxygenierten Blutes",
+        "Die Hüfner-Zahl ändert sich gemäß dem arteriellen Sauerstoff-Partialdruck",
+        "Die Hüfner-Zahl beschreibt das Sauerstoffvolumen, das von 1g Hämoglobin maximal gebunden wird",
+        "Die Hüfner-Zahl beschreibt die Bindung des O2 an Methämoglobin",
+        "Die Hüfner-Zahl beschreibt O2-Fraktion im inspiratorischen Gasgemisch"
+      ],
+      "correct_index": 2,
+      "correct_answer": "Die Hüfner-Zahl beschreibt das Sauerstoffvolumen, das von 1g Hämoglobin maximal gebunden wird"
+    },
+    {
+      "id": 17,
+      "question": "Welche Aussage zur Compliance des Atemapparates (Lunge und Thorax) trifft am ehesten zu?",
+      "options": [
+        "Sie entspricht dem Kehrwert der Resistance",
+        "Sie ist bei einer restriktiven Ventilationsstörung (z.B. Lungenfibrose) typischerweise vermindert",
+        "Sie ist bei maximaler Expiration am größten",
+        "Sie ist bei Surfectant-Mangel typischerweis erhöht",
+        "Sie ist der Quotient aus VC (Vitalkapazität) und FRC (funktioneller Residualkapazität)"
+      ],
+      "correct_index": 1,
+      "correct_answer": "Sie ist bei einer restriktiven Ventilationsstörung (z.B. Lungenfibrose) typischerweise vermindert"
+    },
+    {
+      "id": 18,
+      "question": "Der Querbrückenzyklus ist zentraler Bestandteil der Muskelbewegung. Welches Molekül sorgt für die Ablösung des Myosins vom Aktin?",
+      "options": [
+        "cAMP",
+        "cGMP",
+        "ADP",
+        "ATP",
+        "PKA"
+      ],
+      "correct_index": 3,
+      "correct_answer": "ATP"
+    },
+    {
+      "id": 19,
+      "question": "In der Abbildung ist das Druck-Volumen-Diagramm des linken Ventrikels. Was stellt die hellgraue Fläche am ehesten dar?",
+      "options": [
+        "das Herz-Zeit-Volumen",
+        "die mechanische Arbeit des Herzens",
+        "den endsystolischen Druck",
+        "das Restvolumen",
+        "das enddiastolische Volumen"
+      ],
+      "correct_index": 1,
+      "correct_answer": "die mechanische Arbeit des Herzens"
+    },
+    {
+      "id": 20,
+      "question": "Bei einer Zelle betrage die Konzentration eines zweifach positiv geladenen Kations zytosolisch 185 mmol/L und extrazellulär 18.5 mmol/L. In etwa wie groß ist das Gleichgewichtspotential dieses Ions bei einer Temperatur von 37°C?",
+      "options": [
+        "-60mV",
+        "-30mV",
+        "0mV",
+        "+30mV",
+        "+60mV"
+      ],
+      "correct_index": 1,
+      "correct_answer": "-30mV"
+    },
+    {
+      "id": 21,
+      "question": "Welche Aussage zur Ableitung extrazellulärer Summenaktionspotentiale (SAP) ist am ehesten richtig?",
+      "options": [
+        "Die maximale Reizstärke (in mV), bei der das größte Summenaktionspotential ausgelöst wird, wird Rheobase genannt",
+        "Der spannungsabhängige Na+v-Kanal kann in 3 Zuständen vorliegen. Der inaktivierbare Zusatnd ist ursächlich für die neuronale Refraktärzeit",
+        "Summenaktionspotentiale pflanzen sich entlang der markhaltigen Nerven mit einer maximalen Geschwindigkeit von bis zu 1,2 m/s fort",
+        "In der absoluten Refraktärzeit befinden sich alle spannungsabhängigen K+v-Kanäle in ihrem inaktivierbaren Zustand",
+        "Als Chronaxie bezeichnet man die Zeit zwischen relativer und absoluter Refraktörzeit"
+      ],
+      "correct_index": 1,
+      "correct_answer": "Der spannungsabhängige Na+v-Kanal kann in 3 Zuständen vorliegen. Der inaktivierbare Zusatnd ist ursächlich für die neuronale Refraktärzeit"
+    },
+    {
+      "id": 22,
+      "question": "Welche Aussage zur Angiogenese (Gefäßneubildung) ist am ehesten richtig?",
+      "options": [
+        "Die Angiogenese ist ein unregulierter Prozess des Gewebes",
+        "Ein pO2 unter 40 mmHg im Gewebe hemmt die die Angiogenese",
+        "Eine Hemmung der Angiogenese ist Voraussetzung dafür, dass sich Krebszellen unkontrolliert teilen können",
+        "Sie ist im Alter von 18 Jahren praktisch abgeschlossen",
+        "Sie wird durch Signalkaskaden gesteuert, die durch den Wachstumsfaktor VEGF (Vascular Endothelial Growth Factor) kontrolliert werden"
+      ],
+      "correct_index": 4,
+      "correct_answer": "Sie wird durch Signalkaskaden gesteuert, die durch den Wachstumsfaktor VEGF (Vascular Endothelial Growth Factor) kontrolliert werden"
+    },
+    {
+      "id": 23,
+      "question": "Welche der folgenden Angaben ist keine Beatmungsform?",
+      "options": [
+        "nichtinvasive Beatmung",
+        "invasive Beatmung",
+        "druckkontrollierte Beatmung",
+        "volumenkontrollierte Beatmung",
+        "azentrierte Beatmung"
+      ],
+      "correct_index": 4,
+      "correct_answer": "azentrierte Beatmung"
+    },
+    {
+      "id": 24,
+      "question": "In welchem Bereich liegt die maximale Sauerstoffaufnahme (VO2 max) für einen normal leistungsfähigen Mann im Alter zwischen 20-30 Jahren am ehesten?",
+      "options": [
+        "15 ml / kg x min",
+        "25 ml / kg x min",
+        "45 ml / kg x min",
+        "75 ml / kg x min",
+        "95 ml / kg x min"
+      ],
+      "correct_index": 2,
+      "correct_answer": "45 ml / kg x min"
+    },
+    {
+      "id": 25,
+      "question": "Eine vertsärkte Vorhofdehnung führt zur Erregung der Typ-B-Dehnungsrezeptoren der Vorhöfe (Gauer-Henry-Reflex). Darauf folgt am ehesten:",
+      "options": [
+        "eine Hypervolämie",
+        "eine Steigerung der renalen Freisetzung von Renin",
+        "eine Hemmung des Parasympathikus",
+        "eine Steigerung des Sympathikotonus",
+        "eine vermehrte renale Wasserausscheidung bedingt durch Hemmung der ADH-Freisetzung aus der Hypophyse"
+      ],
+      "correct_index": 4,
+      "correct_answer": "eine vermehrte renale Wasserausscheidung bedingt durch Hemmung der ADH-Freisetzung aus der Hypophyse"
+    },
+    {
+      "id": 26,
+      "question": "Welche der folgenden Methoden der Lungenfunktionsdiagnostik ermöglicht (bei bereits bekannter Inspirationskapazität) am ehesten die Bestimmung der totalen Lungenkapazität?",
+      "options": [
+        "Bodyplethmysmographie (Ganzkörperplethysmographie) mit Atmung bei dauerhaft offenem Mundstück",
+        "Bodyplethysmographie (Ganzkörperplethysmographie) mit Atmung gegen vorübergehend verschlossenes Mundstück",
+        "Pneumotachographie",
+        "Ermittlung der maximalen exspiratorischen Atemstromstärke mittels Peak-Flow-Meter",
+        "Spirometrie mittels konventionelem Glockenspirometer"
+      ],
+      "correct_index": 1,
+      "correct_answer": "Bodyplethysmographie (Ganzkörperplethysmographie) mit Atmung gegen vorübergehend verschlossenes Mundstück"
+    }
+  ]
+}

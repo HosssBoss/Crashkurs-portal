@@ -33,6 +33,7 @@ const subjectData = {
   biochemie: { name: "Biochemie", color: "green" as const },
   physik: { name: "Physik", color: "yellow" as const },
   biologie: { name: "Biologie", color: "sky" as const },
+  physiologie: { name: "Physiologie", color: "rose" as const },
 } as const;
 
 type Standort = keyof typeof locationData;

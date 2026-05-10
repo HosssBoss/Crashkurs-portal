@@ -1,0 +1,341 @@
+{
+  "meta": {
+    "fach": "Physik",
+    "semester": "01",
+    "scraped_at": "2026-05-10T01:38:24.605289",
+    "total": 25,
+    "skipped": {
+      "skipped_images": 0,
+      "skipped_unclear": 0,
+      "skipped_no_options": 0,
+      "skipped_no_answer": 5
+    }
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "In 10m Tiefe ( Wasserdruck: 1 bar) beinhaltet ein Liter Meerwasser ca. 35g gelöste Salze ( vorwiegend Na+ und Cl- Ionen) Etwa wieviel gelöste Salze würden sie in 20m Tiefe ( Wasserdruck: 2 bar) erwarten ?",
+      "options": [
+        "3,5g",
+        "17,5g",
+        "20g",
+        "35g",
+        "70g"
+      ],
+      "correct_index": 3,
+      "correct_answer": "35g"
+    },
+    {
+      "id": 2,
+      "question": "Welche der folgenden Aussagen zum Prinzip der Energieerhaltung in einem geschlossenen System ist richtig ?",
+      "options": [
+        "Energie kann aus dem Nichts erzeugt werden und ebenso vernichtet werden.",
+        "Energie kann aus dem Nichts erzeugt werden, aber nicht vernichiet werden.",
+        "Energie kann aus dem Nichts erzeugt werden, aber vernichtet werden.",
+        "Es gibt so etwas wie das Prinzip der Energiesmaltung nicht.",
+        "Energie kann nicht aus dem Nichts erzeugt werden und nicht vernichtet werden."
+      ],
+      "correct_index": 4,
+      "correct_answer": "Energie kann nicht aus dem Nichts erzeugt werden und nicht vernichtet werden."
+    },
+    {
+      "id": 3,
+      "question": "Der Bungsberg ist der höchste Berg in Schleswig-Holstein, mit einer Höhe von ca. 160m über dem Meeresspiegel. Wie hoch ist auf dem Gipfel dieses Berges der atmosphärische Luftdruck am ehesten?",
+      "options": [
+        "1,02 bar",
+        "0,98 bar",
+        "0,95 bar",
+        "0,80 bar",
+        "0,59 bar"
+      ],
+      "correct_index": 1,
+      "correct_answer": "0,98 bar"
+    },
+    {
+      "id": 4,
+      "question": "Sie bauen ein Analysegerät, bei dem Flüssigkeit durch mehrere Rohre fließen muss. Für einen Teil des Gerätes haben Sie zwei Rohre zur Auswahl, Rohr A und Rohr B. Rohr A hat einen doppelt so großen Radius wie Rohr B, ist aber nur halb so lang. Wenn dieselbe Flüssigkeit mit demselben Druck durch beide Rohre gepumpt wird, wie unterscheidet sich der Volumenstrom in beiden Rohren?",
+      "options": [
+        "Er ist in beiden Rohren gleich groß.",
+        "Er ist in Rohr A 8-mal so groß wie in Rohr B.",
+        "Er ist in Rohr A 16-mal so groß wie in Rohr B",
+        "Er ist in Rohr A 32-mal so groß wie in Rohr B.",
+        "Er ist in Rohr A 64-mal so groß wie in Rohr B."
+      ],
+      "correct_index": 3,
+      "correct_answer": "Er ist in Rohr A 32-mal so groß wie in Rohr B."
+    },
+    {
+      "id": 5,
+      "question": "Der Glomerulus ist ein Netzwerk von parallel geschalteten Kapillaren in der Niere. Welche Aussage über den Gesamtwiderstand im Glomerulus als Funktion der Einzelwiderstände (in den einzelnen Kapillaren) ist am ehesten richtig?",
+      "options": [
+        "Der Gesamtwiderstand ist die Summe der Einzelwiderstände.",
+        "Der Gesamtwiderstand ist das Produkt der Einzelwiderstände.",
+        "Der Kehrwert des Gesamtwiderstands ist die Summe der Kehrwerte der\nEinzelwiderstände.",
+        "Der Kehrwert des Gesamtwiderstands ist die Summe der Kehrwerte der\nEinzelwiderstände.",
+        "Der Gesamtwiderstand ist so groß wie der kleinste Einzelwiderstand."
+      ],
+      "correct_index": 3,
+      "correct_answer": "Der Kehrwert des Gesamtwiderstands ist die Summe der Kehrwerte der\nEinzelwiderstände."
+    },
+    {
+      "id": 6,
+      "question": "Der Himmel zieht sich zu, es droht ein Gewitter. Prof. Procella muss seinen Sohn mit dem Fahrrad von der Kita abholen, und hofft, dass er das noch schafft, bevor das Gewitter eintrifft. Auf dem Weg sieht er einen Blitz und hört 18 Sekunden später einen Donner. Wie weit ist das Gewitter ungefähr von ihm entfernt?",
+      "options": [
+        "500m",
+        "6km",
+        "9km",
+        "18km",
+        "54km"
+      ],
+      "correct_index": 1,
+      "correct_answer": "6km"
+    },
+    {
+      "id": 7,
+      "question": "In einem schläfrigen Gedankenexperiment von Erwin Schröders Katze Phi kommen zwei Mäuse vor, eine normale taubengraue Maus und eine riesige virtuelle Maus. In welchem Bereich zur Sammellinse sitzt die normal große Maus, wenn ihr Bild eine aufrechte, stark vergrößerte virtuelle Maus ist?",
+      "options": [
+        "sehr weit weg von der Linse, im Bereich unendlich bis mindestens zehnfache\nBrennweite",
+        "im Bereich höchstens zehnfache bis mindestens fünffache Brennweite",
+        "im Bereich höchstens fünffache bis mindestens doppelte Brennweite",
+        "im Bereich höchstens doppelte bis mindestens einfache Brennweite",
+        "im Bereich höchstens einfache bis mindestens nullfache Brennweite"
+      ],
+      "correct_index": 4,
+      "correct_answer": "im Bereich höchstens einfache bis mindestens nullfache Brennweite"
+    },
+    {
+      "id": 8,
+      "question": "Detektion von radioaktiver Strahlung spielt im Strahlenschutz eine große Rolle. Welche Aussage zu Methoden der Detektion/Sichtbarmachung dieser Strahlung ist falsch?",
+      "options": [
+        "In einer Nebelkammer können a-, B- und y-Strahlung sichtbar gemacht werden.",
+        "Szintillatoren quantifizieren y-Strahlung.",
+        "In einer Nebelkammer werden a- und ß-Strahlung zu unterschiedlichen Seiten abgelenkt.",
+        "In Szintillatoren kommen spezielle Kristalle zum Einsatz.",
+        "Im Geiger-Müller-Zählrohr können nur Ereignisse von β-Strahlern detektiert werden."
+      ],
+      "correct_index": 4,
+      "correct_answer": "Im Geiger-Müller-Zählrohr können nur Ereignisse von β-Strahlern detektiert werden."
+    },
+    {
+      "id": 9,
+      "question": "Katzenschnurren hat nicht nur durch die Ausschüttung von Serotonin durch unser Gehirn psychisch gesundheitsfördernde Wirkung, sondern auch physisch durch die Schnurrfrequenz von etwa 44 Hz selbst: Muskeln und Knochen werden zum Schwingen angeregt. Der wieviel fachen Wellenlänge des Kammertones a mit 440 Hz entspricht das Schnurren einer Katze?",
+      "options": [
+        "der halben",
+        "der einfachen",
+        "der doppelten",
+        "der zehnfachen",
+        "der zehntausendfachen"
+      ],
+      "correct_index": 3,
+      "correct_answer": "der zehnfachen"
+    },
+    {
+      "id": 10,
+      "question": "Ein Patient soll mit Hilfe eines Pacemakers (Herzschrittmacher) am Herzen elektrische Impulse erhalten, um Herzschläge einzuleiten. Der Pacemaker ist einem Kondensator gleichzusetzen. Jeder Impuls entspricht einer Entladung in Höhe von 1,8*10-6 C und dauert 0,3 ms. Welche Stromstärke wird bei jedem Impuls generiert?",
+      "options": [
+        "1,8 mA",
+        "3 mA",
+        "6 mA",
+        "10 mA",
+        "18 mA"
+      ],
+      "correct_index": 2,
+      "correct_answer": "6 mA"
+    },
+    {
+      "id": 11,
+      "question": "Ein psychisch kranker Patient gibt in Ruhe 100 W in Form von Wärme an die Umgebung ab. Unter diesen Bedingungen bleibt die Körpertemperatur aber konstant bei 37°C. Der Patient hüllt sich nun in eine Wärmedecke und verhindert so, dass er Wärme an die Umgebung abgibt. Wie hoch ist seine Körpertemperatur nach 2 Stunden etwa, wenn er wie in Ruhe Wärme bildet und seine Wärmekapazität 360 kJ/K beträgt?",
+      "options": [
+        "37 K",
+        "100 K",
+        "150 K",
+        "312 K",
+        "337 K"
+      ],
+      "correct_index": 3,
+      "correct_answer": "312 K"
+    },
+    {
+      "id": 12,
+      "question": "Welche Brennweite hat eine Lupe mit der Aufschrift \"5x\"?",
+      "options": [
+        "5 mm",
+        "10 mm",
+        "15mm",
+        "25 mm",
+        "50 mm"
+      ],
+      "correct_index": 4,
+      "correct_answer": "50 mm"
+    },
+    {
+      "id": 13,
+      "question": "Sie hören den Klang einer Trompete, welche einen Schalldruckpegel von 50 dB erzeugt. Wenn jetzt eine zweite Trompete zeitgleich den gleichen Ton mit demselben Schalldruck erzeugt, wie hoch ist der daraus resultierende Schalldruckpegel in etwa?",
+      "options": [
+        "50dB",
+        "52dB",
+        "56dB",
+        "64dB",
+        "100dB"
+      ],
+      "correct_index": 2,
+      "correct_answer": "56dB"
+    },
+    {
+      "id": 14,
+      "question": "Mit einem Brillenglas lässt sich das Licht der Sonne in 20 cm Abstand von der Linse fokussieren. Etwa wie groß ist die Brechkraft dieser Linse?",
+      "options": [
+        "0,1dpt",
+        "1 dpt",
+        "2dpt",
+        "5dpt",
+        "10dpt"
+      ],
+      "correct_index": 3,
+      "correct_answer": "5dpt"
+    },
+    {
+      "id": 15,
+      "question": "Welche Aussage zu Aggregatzustandsübergängen ist richtig?",
+      "options": [
+        "Sieden ist der Übergang von fest zu gasförmig.",
+        "Sublimieren ist der Übergang von flüssig zu gasförmig.",
+        "Kondensieren ist der Übergang von flüssig zu fest.",
+        "Schmelzen ist der Übergang von fest zu flüssig.",
+        "Erstarren ist der Übergang von gasförmig zu fest."
+      ],
+      "correct_index": 3,
+      "correct_answer": "Schmelzen ist der Übergang von fest zu flüssig."
+    },
+    {
+      "id": 16,
+      "question": "Der Body Mass Index (BMI) errechnet sich aus dem Körpergewicht dividiert durch das Quadrat der Körpergröße. Sie konnten das Gewicht eines Patienten (in kg) mit einer relativen Messunsicherheit von 0, 1% und die Größe (in m) mit einer relativen Messunsicherheit von 0,5% ermitteln. Wie groß ist die relative Unsicherheit des errechneten BMI-Wertes?",
+      "options": [
+        "0,2%",
+        "0,4%",
+        "0,7%",
+        "1,1%",
+        "Ohne die gemessenen Werte für Gewicht und Größe, kann diese Zahl nicht ermittelt werden"
+      ],
+      "correct_index": 3,
+      "correct_answer": "1,1%"
+    },
+    {
+      "id": 17,
+      "question": "Welche der folgenden Einheiten ist eine SI-Einheit?",
+      "options": [
+        "Volt",
+        "Liter",
+        "Mol",
+        "Gramm",
+        "Celsius"
+      ],
+      "correct_index": 2,
+      "correct_answer": "Mol"
+    },
+    {
+      "id": 18,
+      "question": "In 10 Meter Abstand von einer nahezu punktförmigen radioaktiven Quelle, wird eine Àquivalentdosisleistung von 1 Sv/h gemessen. Das Umgebungsmedium sei Luft. In welchem Abstand zur Strahlungsquelle misst man dann (bei vernachlässigbarer Absorption in Luft) eine Äquivalentdosisleistung von 0,5 Sv/h in etwa?",
+      "options": [
+        "7 Meter",
+        "28 Meter",
+        "38 Meter",
+        "1 Meter",
+        "14 Meter"
+      ],
+      "correct_index": 4,
+      "correct_answer": "14 Meter"
+    },
+    {
+      "id": 19,
+      "question": "Während einer radioaktiven Messung stellen Sie fest, dass sich das Isotop 137Cs (Z = 55) unter Emission von ß- -Teilchen in das Isotop 137Ba umwandelt. Dabei emittiert auch das Isotop 137Ba y-Strahlung. Wie hoch soll die Ordnungszahl des Isotops 137Ba sein?",
+      "options": [
+        "Option 1",
+        "Option 2",
+        "Option 3",
+        "Option 4",
+        "Option 5"
+      ],
+      "correct_index": 4,
+      "correct_answer": "Option 5"
+    },
+    {
+      "id": 20,
+      "question": "Welche der folgenden Aussagen zu Wellen ist falsch?",
+      "options": [
+        "Die Periodendauer einer Welle ist der Kehrwert ihrer Frequenz.",
+        "Die Wellenlänge multipliziert mit der Frequenz einer Welle ergibt ihre\nAusbreitungsgeschwindigkeit.",
+        "Der Kehrwert der Wellenlänge ergibt die Periodendauer einer Welle.",
+        "Es gibt Transversal- und Longitudinalwellen.",
+        "Die Ausbreitungsgeschwindigkeit einer Welle ist definiert als Wellenlänge dividiert\ndurch die Periodendauer."
+      ],
+      "correct_index": 2,
+      "correct_answer": "Der Kehrwert der Wellenlänge ergibt die Periodendauer einer Welle."
+    },
+    {
+      "id": 21,
+      "question": "Für eine wissenschaftliche Studie misst Dr. Alvin das Körpergewicht von 100 Streifenhörnchen. Es stellt sich heraus, dass das Gewicht normalverteilt ist, mit einem Mittelwert von 50 g und einer Standardabweichung von 4 g. Ca. wie viele der gemessenen Streifenhörnchen wiegen zwischen 46 g und 54 g?",
+      "options": [
+        "Option 1",
+        "Option 2",
+        "Option 3",
+        "Option 4",
+        "Option 5"
+      ],
+      "correct_index": 2,
+      "correct_answer": "Option 3"
+    },
+    {
+      "id": 22,
+      "question": "Ein Patient hat viel Flüssigkeit und damit viele Elektrolyte und Glucose verloren. Deshalb wollen Sie eine Infusion vornehmen. In der Notfallapotheke finden Sie 500 ml einer isotonen Kochsalzlösung (0,9% NaCI = 150 mmol/l) und nur 18 g Glucose (= 100 mmol). Sie wollen aus der Elektrolyt-Lösung eine Kochsalz-Glucose-Lösung ansetzen, welche mit 300 mosmol/ isoton zum Plasma ist. Welches Volumen reinen Wassers brauchen Sie etwa zusätzlich, um die Infusion fertigzustellen?",
+      "options": [
+        "50 ml",
+        "100 ml",
+        "330 ml",
+        "150 cl",
+        "230 dl"
+      ],
+      "correct_index": 2,
+      "correct_answer": "330 ml"
+    },
+    {
+      "id": 23,
+      "question": "Eine beidseitig von wässriger Elektrolytlösung umgebene Lipidmembran mit einer Oberfläche von 100 µm2 wirkt wie ein Plattenkondensator der Kapazität 1 pF. Anfänglich sei der Kondensator ungeladen und die elektrische Spannung Null. Dann werden eine Million Kalium-lonen von der einen auf die andere Seite der Membran transportiert. Andere Ladungsträger als die transportierten Kalium-lonen können die Membran nicht passieren. Die Elementarladung e0 beträgt etwa 1,6*10-19 Coulomb. Etwa welcher Betrag der elektrischen Spannung herrscht jetzt am Kondensator?",
+      "options": [
+        "1,6 • 10-13 mV",
+        "1,6 • 10-12 mV",
+        "1,6 mV",
+        "3 mV",
+        "160mV"
+      ],
+      "correct_index": 4,
+      "correct_answer": "160mV"
+    },
+    {
+      "id": 24,
+      "question": "Ein Zombie braucht im Schnitt etwa 24 Stunden, um einen weiteren Menschen zum Zombie zu machen. Wenn ein Zombie in eine bevölkerte aber bislang zombiefreie Stadt kommt, etwa wie viele Zombies sind dort nach einer Woche (7 Tagen) zu erwarten?",
+      "options": [
+        "Option 1",
+        "Option 2",
+        "128",
+        "256",
+        "1000"
+      ],
+      "correct_index": 2,
+      "correct_answer": "128"
+    },
+    {
+      "id": 25,
+      "question": "Zwei Kinder spielen auf einem Spielplatz mit einer Wippe. Allerdings sind sie unterschiedlich alt und daher auch unterschiedlich schwer: das ältere Kind wiegt 20 kg, das jüngere nur 16 kg. Wenn das jüngere Kind auf seinem Arm der Wippe 150 cm entfernt vom Drehpunkt sitzt, wie weit entfernt vom Drehpunkt muss das ältere Kind am anderen Arm sitzen, damit die Wippe genau in der Schwebe bleibt?",
+      "options": [
+        "0 cm",
+        "4 cm",
+        "30 cm",
+        "100 cm",
+        "120 cm"
+      ],
+      "correct_index": 4,
+      "correct_answer": "120 cm"
+    }
+  ]
+}
