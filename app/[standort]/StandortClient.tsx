@@ -196,6 +196,27 @@ export default function StandortClient({
                   Altklausuren
                 </button>
               </div>
+
+              <div className="mt-2.5 flex gap-2">
+                <Link
+                  href={`/${standort}/${subject.id}/fortschritt`}
+                  className="flex flex-1 items-center justify-center gap-1.5 rounded-lg border border-white/5 bg-white/[0.015] px-3 py-1.5 text-xs text-slate-600 transition-colors hover:text-slate-300"
+                >
+                  <svg className="h-3 w-3" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M16 8v8m-4-5v5m-4-2v2m-2 4h12a2 2 0 002-2V6a2 2 0 00-2-2H6a2 2 0 00-2 2v12a2 2 0 002 2z" />
+                  </svg>
+                  Fortschritt
+                </Link>
+                <Link
+                  href={`/${standort}/${subject.id}/rangliste`}
+                  className="flex flex-1 items-center justify-center gap-1.5 rounded-lg border border-white/5 bg-white/[0.015] px-3 py-1.5 text-xs text-slate-600 transition-colors hover:text-slate-300"
+                >
+                  <svg className="h-3 w-3" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M9 19v-6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2a2 2 0 002-2zm0 0V9a2 2 0 012-2h2a2 2 0 012 2v10m-6 0a2 2 0 002 2h2a2 2 0 002-2m0 0V5a2 2 0 012-2h2a2 2 0 012 2v14a2 2 0 01-2 2h-2a2 2 0 01-2-2z" />
+                  </svg>
+                  Rangliste
+                </Link>
+              </div>
             </div>
           ))}
         </div>
