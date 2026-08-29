@@ -1,0 +1,10 @@
+{
+  "_note": "Katalog: split_left | Catch: Benefit-Hook im Panel | Panel links (Maschine rechts)",
+  "bg": "../photos/placeholder_day_post.png",
+  "layout": "split", "panelSide": "left", "panelWidth": 46,
+  "panelTitle": ["BLUMEN AM", "FRIEDHOF"],
+  "bullets": ["Immer frisch zur Hand", "24/7 ohne Personal", "Für Blumen optimiert", "Kartenzahlung inkl.", "Service & Support"],
+  "cta": "JETZT MEHR ERFAHREN", "panelWeb": true,
+  "badge": 3,
+  "story": { "bg": "../photos/placeholder_day_story.png" }
+}

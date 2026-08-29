@@ -1,0 +1,11 @@
+{
+  "_note": "Katalog: photo_top | Catch: Audience-Callout (kein Burst) | CTA links, Badge rechts",
+  "bg": "../photos/placeholder_dusk_post.png",
+  "layout": "photo", "brightness": "dark",
+  "headlineTop": ["FLORISTEN", "AUFGEPASST!"], "whiteTop": [1],
+  "topSize": 104, "topSub": "Umsatz nach Feierabend",
+  "gradTop": 0.95,
+  "ctaImg": 2, "ctaImgPos": "bl", "ctaImgWidth": 430,
+  "badge": 2, "badgeSide": "right", "logoTop": false,
+  "story": { "bg": "../photos/placeholder_dusk_story.png" }
+}

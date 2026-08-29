@@ -1,0 +1,63 @@
+/* ==========================================================
+   FLORÉSIA STORY EXTENSION — 1080 x 1920 (9:16)
+   Loaded AFTER the skill's styles.css; overrides geometry only.
+   Brand kit (pink, fonts, logo, badge, CTA assets) stays locked.
+
+   Meta Story safe zones: top 250px (profile/name row) and
+   bottom 250px ("Mehr dazu" / swipe-up) are covered by UI.
+   All content lives between y=250 and y=1670.
+   ========================================================== */
+html,body{width:1080px;height:1920px;}
+
+/* taller readability gradients for the 9:16 canvas */
+.grad-top{height:42%;
+  background:linear-gradient(to bottom,rgba(0,0,0,.78) 0%,rgba(0,0,0,.42) 48%,rgba(0,0,0,0) 100%);}
+.grad-bottom{height:40%;
+  background:linear-gradient(to top,rgba(0,0,0,.80) 0%,rgba(0,0,0,.44) 48%,rgba(0,0,0,0) 100%);}
+
+/* headline drops below the Story UI safe zone */
+.hl.top{top:300px;left:60px;}
+.hl.full{right:60px;}
+.hl.hasburst{right:320px;}
+.sub.top{left:62px;}
+.sub.top.hasburst{right:320px;}
+
+/* burst sits beside the headline, also below the safe zone */
+.burst.tr{top:300px;right:56px;}
+.burst.tl{top:300px;left:56px;}
+
+/* CTA cluster + trust badge lift above the bottom safe zone */
+.cta-img.bl{left:48px;bottom:290px;}
+.cta-img.br{right:48px;bottom:290px;}
+.cta-img.bc{bottom:290px;}
+.tbadge{bottom:292px;right:-4px;}
+.tbadge.bleft{right:auto;left:-4px;}
+.web-pill.bl{left:60px;bottom:300px;}
+.web-pill.br{right:60px;bottom:300px;}
+.web-pill.bc{bottom:296px;}
+
+/* stat catch block */
+.stat.bl{left:60px;bottom:470px;}
+.stat.tl{left:60px;top:560px;}
+.stat .num{font-size:120px;}
+
+/* the bottom CTA scrim the engine injects must respect the taller canvas */
+.cta-scrim{position:absolute;left:0;right:0;bottom:0;height:34%;z-index:1;
+  background:linear-gradient(to top,rgba(0,0,0,.78) 0%,rgba(0,0,0,.30) 58%,transparent 100%);}
+
+/* optional faint safe-zone guides (debug only) */
+.safe{position:absolute;left:0;right:0;height:250px;z-index:99;pointer-events:none;
+  background:repeating-linear-gradient(45deg,rgba(255,0,0,.12) 0 12px,transparent 12px 24px);}
+.safe.t{top:0;} .safe.b{bottom:0;}
+
+/* ---- split panel: keep logo + CTA out of the Story UI safe zones ----
+   The panel is full-height, so at 9:16 its logo lands under Meta's profile row
+   and its CTA/www pill under the "Mehr dazu" bar. Pad both ends instead. */
+.panel{padding:300px 44px 300px;}
+.panel .plogo{height:170px;}
+.panel .ptitle{font-size:52px;}
+.panel li{font-size:28px;}
+.panel ul{gap:26px;}
+
+/* left-bleeding badge: don't clip the "50+ Bewertung" start */
+.tbadge.bleft{left:0;}

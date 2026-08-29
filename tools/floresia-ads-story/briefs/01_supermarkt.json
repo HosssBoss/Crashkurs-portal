@@ -1,0 +1,11 @@
+{
+  "_note": "Katalog: callout_burst | Catch: 24/7-Burst | CTA links, Badge rechts",
+  "bg": "../photos/placeholder_day_post.png",
+  "layout": "photo", "brightness": "mixed",
+  "headlineTop": ["UMSATZ AM", "SUPERMARKT"], "whiteTop": [1],
+  "topSize": 92, "topSub": "Spontankäufe am Eingang",
+  "burst": { "style": "circle", "pos": "tr", "big": "24/7", "small": "geöffnet", "tiny": "ohne Personal" },
+  "ctaImg": 1, "ctaImgPos": "bl", "ctaImgWidth": 430,
+  "badge": 1, "badgeSide": "right", "logoTop": false,
+  "story": { "bg": "../photos/placeholder_day_story.png" }
+}

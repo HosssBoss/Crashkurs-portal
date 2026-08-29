@@ -1,0 +1,11 @@
+{
+  "_note": "Katalog: callout_burst gespiegelt | Catch: Star-Burst | CTA RECHTS, Badge LINKS",
+  "bg": "../photos/placeholder_dusk_post.png",
+  "layout": "photo", "brightness": "mixed",
+  "headlineTop": ["BLUMEN", "TO GO"], "whiteTop": [1],
+  "topSize": 104, "topSub": "Direkt an der Tankstelle",
+  "burst": { "style": "star", "pos": "tr", "big": "NEU", "small": "am Standort", "tiny": "" },
+  "ctaImg": 3, "ctaImgPos": "br", "ctaImgWidth": 430,
+  "badge": 4, "badgeSide": "left", "logoTop": false,
+  "story": { "bg": "../photos/placeholder_dusk_story.png" }
+}
